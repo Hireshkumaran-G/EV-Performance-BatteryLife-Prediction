@@ -20,8 +20,6 @@ This project analyzes electric vehicle (EV) performance and battery parameters t
 - Fast Charging Power (kW), Port Type, Cargo Volume (L), Seats, Drivetrain  
 - Segment, Dimensions (mm), Car Body Type, Source URL  
 
-*Dataset cleaning (Excel preprocessing) performed externally; raw dataset uploaded here.*
-
 ## Requirements
 Install dependencies:
 ```bash
