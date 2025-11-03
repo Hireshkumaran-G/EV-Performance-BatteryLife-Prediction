@@ -1,0 +1,475 @@
+brand,model,top_speed_kmh,battery_capacity_kWh,battery_type,number_of_cells,torque_nm,efficiency_wh_per_km,range_km,acceleration_0_100_s,fast_charging_power_kw_dc,towing_capacity_kg,cargo_volume_l,drivetrain,segment,length_mm,width_mm,height_mm,car_body_type
+Abarth,500e Convertible,155.0,37.8,Lithium-ion,192.0,235.0,156,225,7.0,67.0,1348.84,185.0,FWD,B - Compact,3673.0,1714,1518.0,Hatchback
+Abarth,500e Hatchback,155.0,37.8,Lithium-ion,192.0,235.0,149,225,7.0,67.0,1348.84,185.0,FWD,B - Compact,3673.0,1714,1518.0,Hatchback
+Abarth,600e Scorpionissima,200.0,50.8,Lithium-ion,102.0,345.0,158,280,5.9,79.0,1348.84,360.0,FWD,JB - Compact,4187.0,1779,1557.0,SUV
+Abarth,600e Turismo,200.0,50.8,Lithium-ion,102.0,345.0,158,280,6.2,79.0,1348.84,360.0,FWD,JB - Compact,4187.0,1779,1557.0,SUV
+Aiways,U5,150.0,60.0,Lithium-ion,487.77,310.0,156,315,7.5,78.0,1050.05,496.0,FWD,JC - Medium,4680.0,1865,1700.0,SUV
+Aiways,U6,160.0,60.0,Lithium-ion,487.77,315.0,150,350,7.0,78.0,1050.05,472.0,FWD,JC - Medium,4805.0,1880,1641.0,SUV
+Alfa,Romeo Junior Elettrica 54 kWh,150.0,50.8,Lithium-ion,102.0,260.0,128,320,9.0,85.0,1348.84,400.0,FWD,JB - Compact,4173.0,1781,1532.0,SUV
+Alfa,Romeo Junior Elettrica 54 kWh Veloce,200.0,50.8,Lithium-ion,102.0,345.0,164,310,6.0,85.0,1348.84,400.0,FWD,JB - Compact,4173.0,1781,1505.0,SUV
+Alpine,A290 Electric 180 hp,160.0,52.0,Lithium-ion,184.0,285.0,138,310,7.4,70.0,500.0,326.0,FWD,B - Compact,3997.0,1823,1512.0,Hatchback
+Alpine,A290 Electric 220 hp,170.0,52.0,Lithium-ion,184.0,300.0,144,305,6.4,70.0,500.0,326.0,FWD,B - Compact,3997.0,1823,1512.0,Hatchback
+Audi,A6 Avant e-tron,210.0,75.8,Lithium-ion,150.0,435.0,146,465,6.0,150.0,2100.0,502.0,RWD,JE - Executive,4928.0,1923,1455.0,Station/Estate
+Audi,A6 Avant e-tron performance,210.0,94.9,Lithium-ion,180.0,565.0,151,575,5.4,200.0,2100.0,502.0,RWD,JE - Executive,4928.0,1923,1455.0,Station/Estate
+Audi,A6 Avant e-tron quattro,210.0,94.9,Lithium-ion,180.0,855.0,157,560,4.5,200.0,2100.0,502.0,AWD,JE - Executive,4928.0,1923,1455.0,Station/Estate
+Audi,A6 Sportback e-tron,210.0,75.8,Lithium-ion,150.0,435.0,136,495,6.0,150.0,2100.0,502.0,RWD,JE - Executive,4928.0,1923,1455.0,Liftback Sedan
+Audi,A6 Sportback e-tron performance,210.0,94.9,Lithium-ion,180.0,565.0,141,610,5.4,200.0,2100.0,502.0,RWD,JE - Executive,4928.0,1923,1455.0,Liftback Sedan
+Audi,A6 Sportback e-tron quattro,210.0,94.9,Lithium-ion,180.0,855.0,147,590,4.7,200.0,2100.0,502.0,AWD,JE - Executive,4928.0,1923,1455.0,Liftback Sedan
+Audi,Q4 Sportback e-tron 40,160.0,59.0,Lithium-ion,216.0,310.0,156,340,8.1,110.0,1000.0,520.0,RWD,JC - Medium,4588.0,1865,1614.0,SUV
+Audi,Q4 Sportback e-tron 45,180.0,77.0,Lithium-ion,288.0,545.0,162,435,6.7,120.0,1000.0,535.0,RWD,JC - Medium,4588.0,1865,1614.0,SUV
+Audi,Q4 Sportback e-tron 45 quattro,180.0,77.0,Lithium-ion,288.0,679.0,165,410,6.6,120.0,1200.0,535.0,AWD,JC - Medium,4588.0,1865,1614.0,SUV
+Audi,Q4 Sportback e-tron 55 quattro,180.0,77.0,Lithium-ion,288.0,679.0,165,415,5.4,120.0,1200.0,535.0,AWD,JC - Medium,4588.0,1865,1614.0,SUV
+Audi,Q4 e-tron 40,160.0,59.0,Lithium-ion,216.0,310.0,159,325,8.1,110.0,1000.0,520.0,RWD,JC - Medium,4588.0,1865,1632.0,SUV
+Audi,Q4 e-tron 45,180.0,77.0,Lithium-ion,288.0,545.0,169,420,6.7,120.0,1000.0,520.0,RWD,JC - Medium,4588.0,1865,1632.0,SUV
+Audi,Q4 e-tron 45 quattro,180.0,77.0,Lithium-ion,288.0,679.0,171,395,6.6,120.0,1200.0,520.0,AWD,JC - Medium,4588.0,1865,1632.0,SUV
+Audi,Q4 e-tron 55 quattro,180.0,77.0,Lithium-ion,288.0,679.0,171,395,5.4,120.0,1200.0,520.0,AWD,JC - Medium,4588.0,1865,1632.0,SUV
+Audi,Q6 e-tron,210.0,75.8,Lithium-ion,150.0,450.0,166,395,7.0,150.0,2000.0,526.0,RWD,JD - Large,4771.0,1939,1685.0,SUV
+Audi,Q6 e-tron Sportback,210.0,75.8,Lithium-ion,150.0,450.0,139,410,7.0,150.0,2000.0,511.0,RWD,JD - Large,4771.0,1939,1665.0,SUV
+Audi,Q6 e-tron Sportback performance,210.0,94.9,Lithium-ion,180.0,485.0,145,510,6.6,190.0,2000.0,511.0,RWD,JD - Large,4771.0,1939,1665.0,SUV
+Audi,Q6 e-tron Sportback quattro,210.0,94.9,Lithium-ion,180.0,855.0,149,500,5.9,200.0,2400.0,511.0,AWD,JD - Large,4771.0,1939,1665.0,SUV
+Audi,Q6 e-tron performance,210.0,94.9,Lithium-ion,180.0,485.0,171,490,6.6,190.0,2000.0,526.0,RWD,JD - Large,4771.0,1939,1685.0,SUV
+Audi,S6 Avant e-tron,240.0,94.9,Lithium-ion,180.0,855.0,156,530,3.9,200.0,2100.0,502.0,AWD,JE - Executive,4928.0,1923,1493.0,Station/Estate
+Audi,S6 Sportback e-tron,240.0,94.9,Lithium-ion,180.0,855.0,149,555,3.9,200.0,2100.0,502.0,AWD,JE - Executive,4928.0,1923,1465.0,Liftback Sedan
+Audi,SQ6 e-tron,230.0,94.9,Lithium-ion,180.0,855.0,169,470,4.3,200.0,2400.0,514.0,AWD,JD - Large,4771.0,1965,1685.0,SUV
+Audi,SQ6 e-tron Sportback,230.0,94.9,Lithium-ion,180.0,855.0,164,495,4.3,200.0,2400.0,511.0,AWD,JD - Large,4771.0,1965,1665.0,SUV
+Audi,e-tron GT RS,250.0,97.0,Lithium-ion,396.0,865.0,184,525,2.8,255.0,1348.84,350.0,AWD,F - Luxury,4997.0,1964,1389.0,Sedan
+Audi,e-tron GT RS performance,250.0,97.0,Lithium-ion,396.0,1027.0,182,525,2.5,255.0,1348.84,350.0,AWD,F - Luxury,4997.0,1964,1389.0,Sedan
+Audi,e-tron GT S,245.0,97.0,Lithium-ion,396.0,740.0,172,540,3.4,255.0,1348.84,405.0,AWD,F - Luxury,5004.0,1964,1394.0,Sedan
+Audi,e-tron GT quattro,245.0,97.0,Lithium-ion,396.0,625.0,169,540,4.0,255.0,1348.84,405.0,AWD,F - Luxury,5004.0,1964,1394.0,Sedan
+BMW,i4 M50,225.0,81.3,Lithium-ion,487.77,795.0,197,450,3.9,131.0,1600.0,470.0,AWD,D - Large,4783.0,1852,1448.0,Liftback Sedan
+BMW,i4 eDrive35,190.0,67.1,Lithium-ion,487.77,400.0,174,430,6.0,95.0,1600.0,470.0,RWD,D - Large,4783.0,1852,1448.0,Liftback Sedan
+BMW,i4 eDrive40,190.0,81.3,Lithium-ion,487.77,430.0,174,515,5.6,131.0,1600.0,470.0,RWD,D - Large,4783.0,1852,1448.0,Liftback Sedan
+BMW,i4 xDrive40,200.0,81.3,Lithium-ion,487.77,600.0,183,490,5.1,131.0,1600.0,470.0,AWD,D - Large,4783.0,1852,1448.0,Liftback Sedan
+BMW,i5 M60 xDrive Sedan (MY25),230.0,81.2,Lithium-ion,487.77,795.0,172,430,3.8,136.0,2000.0,490.0,AWD,E - Executive,5060.0,1900,1505.0,Sedan
+BMW,i5 M60 xDrive Touring (MY25),230.0,81.2,Lithium-ion,487.77,795.0,179,425,3.9,136.0,2000.0,570.0,AWD,E - Executive,5060.0,1900,1505.0,Station/Estate
+BMW,i5 eDrive40 Sedan (MY25),193.0,81.2,Lithium-ion,487.77,400.0,159,480,6.0,136.0,1500.0,490.0,RWD,E - Executive,5060.0,1900,1515.0,Sedan
+BMW,i5 eDrive40 Touring (MY25),193.0,81.2,Lithium-ion,487.77,400.0,165,465,6.1,136.0,1500.0,570.0,RWD,E - Executive,5060.0,1900,1515.0,Station/Estate
+BMW,i5 xDrive40 Sedan (MY25),215.0,81.2,Lithium-ion,487.77,590.0,167,465,5.4,136.0,2000.0,490.0,AWD,E - Executive,5060.0,1900,1515.0,Sedan
+BMW,i5 xDrive40 Touring (MY25),215.0,81.2,Lithium-ion,487.77,590.0,174,450,5.5,136.0,2000.0,570.0,AWD,E - Executive,5060.0,1900,1515.0,Station/Estate
+BMW,i7 M70 xDrive,250.0,101.7,Lithium-ion,487.77,1100.0,208,490,3.7,159.0,1348.84,500.0,AWD,F - Luxury,5391.0,1950,1544.0,Sedan
+BMW,i7 eDrive50,205.0,101.7,Lithium-ion,487.77,650.0,177,520,5.5,159.0,1348.84,500.0,RWD,F - Luxury,5391.0,1950,1544.0,Sedan
+BMW,i7 xDrive60,240.0,101.7,Lithium-ion,487.77,745.0,172,510,4.7,159.0,2000.0,500.0,AWD,F - Luxury,5391.0,1950,1544.0,Sedan
+BMW,iX M70 xDrive,250.0,108.9,Lithium-ion,487.77,1015.0,209,500,3.8,150.0,2500.0,500.0,AWD,JE - Executive,4965.0,1970,1695.0,SUV
+BMW,iX xDrive45,200.0,94.8,Lithium-ion,487.77,700.0,193,470,5.1,115.0,2500.0,500.0,AWD,JE - Executive,4965.0,1970,1695.0,SUV
+BMW,iX xDrive60,200.0,109.1,Lithium-ion,487.77,765.0,194,525,4.6,150.0,2500.0,500.0,AWD,JE - Executive,4965.0,1970,1695.0,SUV
+BMW,iX1 eDrive20,170.0,64.7,Lithium-ion,487.77,247.0,150,390,8.3,94.0,750.0,490.0,FWD,JC - Medium,4500.0,1845,1616.0,SUV
+BMW,iX1 xDrive30,180.0,64.7,Lithium-ion,487.77,494.0,155,380,5.6,94.0,1200.0,490.0,AWD,JC - Medium,4500.0,1845,1616.0,SUV
+BMW,iX2 eDrive20,170.0,64.7,Lithium-ion,487.77,247.0,147,395,8.6,94.0,750.0,525.0,FWD,JC - Medium,4554.0,1845,1560.0,SUV
+BMW,iX2 xDrive30,180.0,64.7,Lithium-ion,487.77,494.0,155,385,5.6,94.0,1200.0,525.0,AWD,JC - Medium,4554.0,1845,1560.0,SUV
+BYD,ATTO 2,160.0,45.1,Lithium-ion,487.77,290.0,145,245,7.9,51.0,750.0,400.0,FWD,JB - Compact,4310.0,1830,1675.0,SUV
+BYD,ATTO 3 (MY25),160.0,60.5,Lithium-ion,126.0,310.0,144,340,7.3,75.0,750.0,440.0,FWD,JC - Medium,4455.0,1875,1615.0,SUV
+BYD,DOLPHIN 44.9 kWh Active,150.0,44.9,Lithium-ion,104.0,180.0,132,265,12.3,50.0,1348.84,345.0,FWD,C - Medium,4290.0,1770,1570.0,Hatchback
+BYD,DOLPHIN 44.9 kWh Boost,160.0,44.9,Lithium-ion,104.0,497.43,145,260,8.0,50.0,1348.84,345.0,FWD,C - Medium,4290.0,1770,1570.0,Hatchback
+BYD,DOLPHIN 60.4 kWh,160.0,60.5,Lithium-ion,126.0,310.0,142,350,7.0,65.0,1348.84,345.0,FWD,C - Medium,4290.0,1770,1570.0,Hatchback
+BYD,DOLPHIN SURF 30 kWh Active,150.0,30.0,Lithium-ion,94.0,175.0,136,190,11.1,45.0,1348.84,308.0,FWD,B - Compact,3990.0,1720,1590.0,Hatchback
+BYD,DOLPHIN SURF 43.2 kWh Boost,150.0,43.2,Lithium-ion,90.0,175.0,134,270,12.1,60.0,1348.84,308.0,FWD,B - Compact,3990.0,1720,1590.0,Hatchback
+BYD,DOLPHIN SURF 43.2 kWh Comfort,150.0,43.2,Lithium-ion,90.0,220.0,139,265,9.1,60.0,1348.84,308.0,FWD,B - Compact,3990.0,1720,1590.0,Hatchback
+BYD,SEAL 61.4 kWh RWD Comfort,220.0,61.4,Lithium-ion,128.0,380.0,133,365,7.5,75.0,750.0,400.0,RWD,D - Large,4800.0,1875,1460.0,Sedan
+BYD,SEAL 82.5 kWh AWD Excellence,180.0,82.5,Lithium-ion,172.0,670.0,159,445,3.8,100.0,1500.0,400.0,AWD,D - Large,4800.0,1875,1460.0,Sedan
+BYD,SEAL 82.5 kWh RWD Design,180.0,82.5,Lithium-ion,172.0,360.0,145,480,5.9,100.0,750.0,400.0,RWD,D - Large,4800.0,1875,1460.0,Sedan
+BYD,SEAL U 71.8 kWh Comfort,175.0,71.8,Lithium-ion,132.0,310.0,171,360,9.3,72.0,1300.0,552.0,FWD,JD - Large,4785.0,1890,1668.0,SUV
+BYD,SEAL U 87 kWh Design,175.0,87.0,Lithium-ion,160.0,330.0,174,425,9.6,85.0,1300.0,552.0,FWD,JD - Large,4785.0,1890,1668.0,SUV
+BYD,SEALION 7 82.5 kWh AWD Design,215.0,82.5,Lithium-ion,172.0,690.0,181,400,4.5,115.0,1500.0,520.0,AWD,JD - Large,4830.0,1925,1620.0,SUV
+BYD,SEALION 7 82.5 kWh RWD Comfort,215.0,82.5,Lithium-ion,172.0,380.0,171,415,6.7,115.0,750.0,520.0,RWD,JD - Large,4830.0,1925,1620.0,SUV
+BYD,SEALION 7 91.3 kWh AWD Excellence,215.0,91.3,Lithium-ion,487.77,690.0,182,430,4.5,165.0,1500.0,520.0,AWD,JD - Large,4830.0,1925,1620.0,SUV
+BYD,TANG Flagship,190.0,108.8,Lithium-ion,487.77,700.0,205,460,4.9,100.0,1500.0,235.0,AWD,JE - Executive,4970.0,1955,1745.0,SUV
+CUPRA,Born 170 kW - 59 kWh,160.0,59.0,Lithium-ion,216.0,310.0,156,360,6.7,110.0,1348.84,385.0,RWD,C - Medium,4322.0,1809,1540.0,Hatchback
+CUPRA,Born 170 kW - 77 kWh,160.0,77.0,Lithium-ion,288.0,310.0,157,460,7.0,125.0,1348.84,385.0,RWD,C - Medium,4322.0,1809,1540.0,Hatchback
+CUPRA,Born VZ,200.0,79.0,Lithium-ion,288.0,545.0,149,465,5.6,135.0,1348.84,385.0,RWD,C - Medium,4322.0,1809,1538.0,Hatchback
+CUPRA,Tavascan Endurance,180.0,77.0,Lithium-ion,288.0,545.0,142,445,6.8,120.0,1000.0,540.0,RWD,JC - Medium,4644.0,1861,1597.0,SUV
+CUPRA,Tavascan VZ,180.0,77.0,Lithium-ion,288.0,545.0,150,425,5.5,120.0,1200.0,540.0,AWD,JC - Medium,4644.0,1861,1597.0,SUV
+Cadillac,Lyriq 600 E4,210.0,102.0,Lithium-ion,288.0,610.0,192,460,5.3,165.0,1587.0,783.75,AWD,JF - Luxury,5005.0,1977,1623.0,SUV
+Citroen,e-Berlingo M 50 kWh,132.0,50.0,Lithium-ion,487.77,260.0,149,235,11.7,80.0,750.0,775.0,FWD,N - Passenger Van,4403.0,1921,1803.0,Small Passenger Van
+Citroen,e-Berlingo XL 50 kWh,132.0,50.0,Lithium-ion,487.77,260.0,149,230,11.7,80.0,750.0,783.75,FWD,N - Passenger Van,4753.0,1921,1814.0,Small Passenger Van
+Citroen,e-C3,135.0,44.0,Lithium-ion,487.77,120.0,135,255,11.5,60.0,550.0,310.0,FWD,B - Compact,4015.0,1755,1577.0,Hatchback
+Citroen,e-C3 Aircross,145.0,44.0,Lithium-ion,487.77,125.0,144,240,12.9,60.0,350.0,460.0,FWD,JB - Compact,4395.0,1795,1660.0,SUV
+Citroen,e-C4,150.0,46.3,Lithium-ion,216.0,260.0,135,285,9.9,78.0,1348.84,380.0,FWD,C - Medium,4360.0,1834,1525.0,Hatchback
+Citroen,e-C4 54 kWh,150.0,50.8,Lithium-ion,102.0,260.0,122,325,9.1,78.0,1348.84,380.0,FWD,C - Medium,4360.0,1834,1525.0,Hatchback
+Citroen,e-C4 X,150.0,46.3,Lithium-ion,216.0,260.0,132,290,9.9,78.0,1348.84,510.0,FWD,C - Medium,4600.0,1834,1525.0,Sedan
+Citroen,e-C4 X 54 kWh,150.0,50.8,Lithium-ion,102.0,260.0,119,335,9.1,78.0,1348.84,510.0,FWD,C - Medium,4600.0,1834,1525.0,Sedan
+Citroen,e-SpaceTourer M 50 kWh,130.0,46.3,Lithium-ion,216.0,220.0,217,180,13.299999999999999,78.0,1000.0,603.0,FWD,N - Passenger Van,4983.0,1920,1888.375,Small Passenger Van
+Citroen,e-SpaceTourer M 75 kWh,130.0,68.0,Lithium-ion,324.0,220.0,202,260,13.299999999999999,79.0,1000.0,603.0,FWD,N - Passenger Van,4983.0,1920,1888.375,Small Passenger Van
+Citroen,e-SpaceTourer XL 50 kWh,130.0,46.3,Lithium-ion,216.0,220.0,219,180,13.299999999999999,78.0,1000.0,783.75,FWD,N - Passenger Van,5333.0,1920,1888.375,Small Passenger Van
+Citroen,e-SpaceTourer XL 75 kWh,130.0,68.0,Lithium-ion,324.0,220.0,204,260,13.299999999999999,79.0,1000.0,783.75,FWD,N - Passenger Van,5333.0,1920,1888.375,Small Passenger Van
+DS,3 E-Tense,150.0,50.8,Lithium-ion,102.0,260.0,128,300,9.0,85.0,1348.84,350.0,FWD,JB - Compact,4118.0,1802,1534.0,SUV
+DS,N°4 E-Tense,160.0,58.3,Lithium-ion,487.77,345.0,130,375,7.1,70.0,1348.84,390.0,FWD,JC - Medium,4400.0,1866,1470.0,Hatchback
+DS,N°8 AWD Long Range,190.0,97.2,Lithium-ion,487.77,511.0,146,530,5.4,130.0,1400.0,620.0,AWD,JD - Large,4834.0,1920,1574.0,SUV
+DS,N°8 FWD,190.0,73.7,Lithium-ion,487.77,345.0,141,415,7.7,100.0,1260.0,620.0,FWD,JD - Large,4834.0,1920,1574.0,SUV
+DS,N°8 FWD Long Range,190.0,97.2,Lithium-ion,487.77,345.0,136,545,7.8,130.0,1200.0,620.0,FWD,JD - Large,4834.0,1920,1574.0,SUV
+Dacia,Spring Electric 45,125.0,25.0,Lithium-ion,72.0,125.0,109,165,13.299999999999999,29.0,1348.84,308.0,FWD,A - Mini,3700.0,1714,1516.0,Hatchback
+Dacia,Spring Electric 65,125.0,25.0,Lithium-ion,72.0,113.0,114,160,13.299999999999999,29.0,1348.84,308.0,FWD,A - Mini,3700.0,1714,1516.0,Hatchback
+Dongfeng,Box 31.4 kWh,140.0,29.0,Lithium-ion,487.77,160.0,126,190,12.5,50.0,1050.05,326.0,FWD,B - Compact,4020.0,1810,1570.0,Hatchback
+Dongfeng,Box 42.3 kWh,140.0,40.0,Lithium-ion,487.77,160.0,129,255,12.5,51.0,1050.05,326.0,FWD,B - Compact,4020.0,1810,1570.0,Hatchback
+Elaris,BEO 86 kWh,150.0,81.0,Lithium-ion,487.77,320.0,203,390,9.5,65.0,1050.05,467.0,FWD,JD - Large,4698.0,1908,1696.0,SUV
+Fiat,500e 3+1 24 kWh,135.0,21.3,Lithium-ion,108.0,220.0,112,135,9.0,40.0,1348.84,185.0,FWD,B - Compact,3658.5,1714,1529.0,Hatchback
+Fiat,500e 3+1 42 kWh,150.0,37.3,Lithium-ion,192.0,220.0,122,235,9.0,67.0,1348.84,185.0,FWD,B - Compact,3658.5,1714,1529.0,Hatchback
+Fiat,500e Cabrio 24 kWh,135.0,21.3,Lithium-ion,108.0,220.0,112,135,9.0,40.0,1348.84,185.0,FWD,B - Compact,3658.5,1714,1529.0,Cabriolet
+Fiat,500e Cabrio 42 kWh,150.0,37.3,Lithium-ion,192.0,220.0,125,230,9.0,67.0,1348.84,185.0,FWD,B - Compact,3658.5,1714,1529.0,Cabriolet
+Fiat,500e Hatchback 24 kWh,135.0,21.3,Lithium-ion,108.0,220.0,112,135,9.0,40.0,1348.84,185.0,FWD,B - Compact,3658.5,1714,1529.0,Hatchback
+Fiat,500e Hatchback 42 kWh,150.0,37.3,Lithium-ion,192.0,220.0,118,235,9.0,67.0,1348.84,185.0,FWD,B - Compact,3658.5,1714,1529.0,Hatchback
+Fiat,600e,150.0,50.8,Lithium-ion,102.0,260.0,124,310,9.0,79.0,1348.84,360.0,FWD,JB - Compact,4171.0,1781,1523.0,SUV
+Fiat,Grande Panda,132.0,43.8,Lithium-ion,487.77,122.0,136,260,11.0,60.0,550.0,361.0,FWD,B - Compact,3999.0,1763,1570.0,Hatchback
+Ford,Capri Extended Range AWD,180.0,79.0,Lithium-ion,288.0,679.0,148,455,5.3,135.0,1200.0,572.0,AWD,D - Large,4643.0,1872,1626.0,Liftback Sedan
+Ford,Capri Extended Range RWD,180.0,77.0,Lithium-ion,288.0,545.0,135,455,6.4,120.0,1000.0,572.0,RWD,D - Large,4643.0,1872,1626.0,Liftback Sedan
+Ford,Capri Standard Range RWD,160.0,52.0,Lithium-ion,192.0,310.0,163,320,9.0,85.0,1000.0,572.0,RWD,D - Large,4643.0,1872,1626.0,Liftback Sedan
+Ford,Explorer Extended Range AWD,180.0,79.0,Lithium-ion,288.0,679.0,153,440,5.3,135.0,1200.0,536.0,AWD,JC - Medium,4468.0,1871,1639.0,SUV
+Ford,Explorer Extended Range RWD,180.0,77.0,Lithium-ion,288.0,545.0,139,435,6.4,120.0,1000.0,536.0,RWD,JC - Medium,4468.0,1871,1630.0,SUV
+Ford,Explorer Standard Range RWD,160.0,52.0,Lithium-ion,192.0,310.0,137,305,8.7,85.0,1000.0,536.0,RWD,JC - Medium,4468.0,1871,1630.0,SUV
+Ford,Mustang Mach-E ER AWD (MY25),180.0,88.0,Lithium-ion,487.77,675.0,160,435,4.8,105.0,1500.0,519.0,AWD,JD - Large,4713.0,1881,1624.0,SUV
+Ford,Mustang Mach-E ER AWD (MY24),180.0,91.0,Lithium-ion,376.0,675.0,165,445,4.6,115.0,1500.0,519.0,AWD,JD - Large,4713.0,1881,1624.0,SUV
+Ford,Mustang Mach-E ER RWD (MY25),180.0,88.0,Lithium-ion,487.77,525.0,147,475,6.1,105.0,1500.0,519.0,RWD,JD - Large,4713.0,1881,1624.0,SUV
+Ford,Mustang Mach-E ER RWD (MY24),180.0,91.0,Lithium-ion,376.0,525.0,152,480,5.9,115.0,1500.0,519.0,RWD,JD - Large,4713.0,1881,1624.0,SUV
+Ford,Mustang Mach-E GT (MY24),200.0,91.0,Lithium-ion,376.0,950.0,177,425,3.8,115.0,750.0,519.0,AWD,JD - Large,4743.0,1881,1613.0,SUV
+Ford,Mustang Mach-E GT (MY25),200.0,91.0,Lithium-ion,376.0,950.0,177,435,3.8,115.0,750.0,519.0,AWD,JD - Large,4743.0,1881,1613.0,SUV
+Ford,Mustang Mach-E Rally (MY25),200.0,91.0,Lithium-ion,376.0,950.0,178,415,3.9,115.0,750.0,519.0,AWD,JD - Large,4743.0,1881,1633.0,SUV
+Ford,Mustang Mach-E Rally (MY24),200.0,91.0,Lithium-ion,376.0,950.0,178,410,3.9,115.0,750.0,519.0,AWD,JD - Large,4743.0,1881,1633.0,SUV
+Ford,Mustang Mach-E SR RWD (MY24),180.0,72.6,Lithium-ion,487.77,525.0,154,385,6.2,100.0,750.0,519.0,RWD,JD - Large,4713.0,1881,1624.0,SUV
+Ford,Mustang Mach-E SR RWD (MY25),180.0,72.6,Lithium-ion,487.77,525.0,154,380,6.2,100.0,750.0,519.0,RWD,JD - Large,4713.0,1881,1624.0,SUV
+Ford,Puma Gen-E,160.0,43.6,Lithium-ion,487.77,290.0,126,275,8.0,85.0,750.0,523.0,FWD,JB - Compact,4214.0,1805,1555.0,SUV
+Ford,e-Tourneo Courier,145.0,43.6,Lithium-ion,487.77,290.0,164,200,11.0,80.0,750.0,494.05,FWD,N - Passenger Van,4337.0,1876,1817.0,Small Passenger Van
+Ford,e-Tourneo Custom L1 160 kW,130.0,64.0,Lithium-ion,487.77,415.0,228,235,9.0,70.0,2000.0,672.0,RWD,N - Passenger Van,5050.0,1999,1888.375,Small Passenger Van
+Ford,e-Tourneo Custom L1 210 kW,130.0,64.0,Lithium-ion,487.77,415.0,228,235,8.0,70.0,2000.0,672.0,RWD,N - Passenger Van,5050.0,1999,1888.375,Small Passenger Van
+Ford,e-Tourneo Custom L2 160 kW,150.0,64.0,Lithium-ion,487.77,415.0,228,235,9.0,70.0,2000.0,672.0,RWD,N - Passenger Van,5742.5,1999,1888.375,Small Passenger Van
+Ford,e-Tourneo Custom L2 210 kW,150.0,64.0,Lithium-ion,487.77,415.0,228,235,8.0,70.0,2000.0,672.0,RWD,N - Passenger Van,5742.5,1999,1888.375,Small Passenger Van
+GWM,ORA 03 48 kWh,160.0,45.4,Lithium-ion,487.77,250.0,146,260,8.3,45.0,1348.84,228.0,FWD,C - Medium,4235.0,1825,1603.0,Hatchback
+GWM,ORA 03 63 kWh,160.0,59.3,Lithium-ion,487.77,250.0,141,340,8.2,56.0,1348.84,228.0,FWD,C - Medium,4235.0,1825,1603.0,Hatchback
+GWM,ORA 03 GT,160.0,59.3,Lithium-ion,487.77,250.0,148,325,8.2,56.0,1348.84,228.0,FWD,C - Medium,4254.0,1848,1603.0,Hatchback
+GWM,ORA 07 GT,180.0,83.5,Lithium-ion,487.77,680.0,161,430,4.5,80.0,1348.84,333.0,AWD,D - Large,4871.0,1862,1500.0,Sedan
+GWM,ORA 07 Pro,170.0,64.3,Lithium-ion,487.77,340.0,146,350,8.2,75.0,1348.84,333.0,FWD,D - Large,4871.0,1862,1500.0,Sedan
+GWM,ORA 07 Pure,170.0,64.3,Lithium-ion,487.77,340.0,146,350,8.2,75.0,1348.84,333.0,FWD,D - Large,4871.0,1862,1500.0,Sedan
+Genesis,G80 Electrified Luxury,225.0,82.5,Lithium-ion,487.77,700.0,159,440,4.9,160.0,1050.05,354.0,AWD,F - Luxury,5005.0,1925,1470.0,Sedan
+Genesis,GV60 Premium,185.0,74.0,Lithium-ion,384.0,350.0,143,390,7.8,200.0,1600.0,432.0,RWD,JC - Medium,4515.0,1890,1580.0,SUV
+Genesis,GV60 Sport,200.0,74.0,Lithium-ion,384.0,605.0,157,375,5.5,200.0,1600.0,432.0,AWD,JC - Medium,4515.0,1890,1580.0,SUV
+Genesis,GV60 Sport Plus,235.0,74.0,Lithium-ion,384.0,700.0,159,360,4.0,200.0,1600.0,432.0,AWD,JC - Medium,4515.0,1890,1580.0,SUV
+Genesis,GV70 Electrified Sport,235.0,74.0,Lithium-ion,384.0,700.0,163,350,4.2,190.0,1800.0,503.0,AWD,JD - Large,4715.0,1910,1630.0,SUV
+Honda,e:Ny1,160.0,61.9,Lithium-ion,487.77,310.0,150,335,7.6,60.0,1348.84,361.0,FWD,JB - Compact,4387.0,1790,1584.0,SUV
+Hongqi,E-HS9 120 kWh,200.0,112.0,Lithium-ion,487.77,750.0,217,455,4.9,110.0,1500.0,438.0,AWD,JF - Luxury,5209.0,2010,1731.0,SUV
+Hongqi,E-HS9 84 kWh,200.0,76.5,Lithium-ion,487.77,600.0,193,320,6.5,112.0,1500.0,438.0,AWD,JF - Luxury,5209.0,2010,1731.0,SUV
+Hongqi,E-HS9 99 kWh,200.0,90.0,Lithium-ion,487.77,750.0,194,370,4.9,112.0,1500.0,438.0,AWD,JF - Luxury,5209.0,2010,1731.0,SUV
+Hyundai,INSTER Long Range,150.0,46.0,Lithium-ion,487.77,147.0,124,300,10.6,70.0,1050.05,280.0,FWD,JA - Mini,3825.0,1714,1575.0,SUV
+Hyundai,INSTER Standard Range,140.0,39.0,Lithium-ion,487.77,147.0,119,255,11.7,60.0,1050.05,280.0,FWD,JA - Mini,3825.0,1714,1575.0,SUV
+Hyundai,IONIQ 5 63 kWh RWD (MY24),185.0,60.0,Lithium-ion,288.0,350.0,136,345,8.5,150.0,750.0,520.0,RWD,JC - Medium,4655.0,1890,1605.0,SUV
+Hyundai,IONIQ 5 84 kWh AWD (MY24),185.0,80.0,Lithium-ion,384.0,605.0,162,445,5.3,205.0,1600.0,520.0,AWD,JC - Medium,4655.0,1890,1605.0,SUV
+Hyundai,IONIQ 5 84 kWh RWD (MY24),185.0,80.0,Lithium-ion,384.0,350.0,155,450,7.5,205.0,1600.0,520.0,RWD,JC - Medium,4655.0,1890,1605.0,SUV
+Hyundai,IONIQ 5 N (MY24),260.0,80.0,Lithium-ion,384.0,740.0,179,390,3.4,205.0,1348.84,480.0,AWD,JC - Medium,4715.0,1940,1585.0,SUV
+Hyundai,IONIQ 6 Long Range 2WD,185.0,74.0,Lithium-ion,384.0,350.0,136,495,7.4,200.0,1500.0,401.0,RWD,D - Large,4855.0,1880,1495.0,Sedan
+Hyundai,IONIQ 6 Long Range AWD,185.0,74.0,Lithium-ion,384.0,605.0,143,440,5.1,200.0,1500.0,401.0,AWD,D - Large,4855.0,1880,1495.0,Sedan
+Hyundai,IONIQ 6 Standard Range 2WD,185.0,50.0,Lithium-ion,264.0,350.0,117,335,8.8,120.0,750.0,401.0,RWD,D - Large,4855.0,1880,1495.0,Sedan
+Hyundai,IONIQ 9 Long Range AWD,200.0,106.0,Lithium-ion,487.77,605.0,177,490,6.7,195.0,2500.0,338.0,AWD,JF - Luxury,5060.0,1980,1790.0,SUV
+Hyundai,IONIQ 9 Long Range RWD,185.0,106.0,Lithium-ion,487.77,350.0,171,500,9.4,195.0,1600.0,338.0,RWD,JF - Luxury,5060.0,1980,1790.0,SUV
+Hyundai,IONIQ 9 Performance AWD,200.0,106.0,Lithium-ion,487.77,700.0,177,480,5.2,195.0,2500.0,338.0,AWD,JF - Luxury,5060.0,1980,1790.0,SUV
+Hyundai,Kona Electric 48 kWh,160.0,48.4,Lithium-ion,487.77,255.0,128,295,8.8,50.0,300.0,466.0,FWD,JB - Compact,4355.0,1825,1575.0,SUV
+Hyundai,Kona Electric 65 kWh,170.0,65.4,Lithium-ion,487.77,255.0,144,390,7.8,86.0,750.0,466.0,FWD,JB - Compact,4355.0,1825,1575.0,SUV
+Jaguar,I-Pace EV400,200.0,84.7,Lithium-ion,432.0,696.0,208,380,4.8,85.0,750.0,505.0,AWD,JD - Large,4682.0,2011,1566.0,SUV
+Jeep,Avenger Electric,150.0,50.8,Lithium-ion,102.0,260.0,132,310,9.0,85.0,1348.84,355.0,FWD,JB - Compact,4084.0,1776,1528.0,SUV
+Jeep,Compass Electric 74 kWh,180.0,74.0,Lithium-ion,487.77,345.0,148,370,8.5,90.0,1000.0,550.0,FWD,JC - Medium,4552.0,1928,1675.0,SUV
+KGM,Torres EVX,175.0,72.0,Lithium-ion,487.77,339.0,156,370,8.1,85.0,1500.0,783.75,FWD,JC - Medium,4715.0,1890,1725.0,SUV
+Kia,EV3 Long Range,170.0,78.0,Lithium-ion,487.77,283.0,139,455,7.7,105.0,1000.0,460.0,FWD,JB - Compact,4300.0,1850,1560.0,SUV
+Kia,EV3 Standard Range,170.0,55.0,Lithium-ion,487.77,283.0,133,325,7.5,80.0,300.0,460.0,FWD,JB - Compact,4300.0,1850,1560.0,SUV
+Kia,EV4 Hatchback Long Range,170.0,78.0,Lithium-ion,487.77,283.0,132,475,7.7,105.0,1050.05,435.0,FWD,C - Medium,4430.0,1860,1485.0,Hatchback
+Kia,EV4 Hatchback Standard Range,170.0,55.0,Lithium-ion,487.77,283.0,134,340,7.4,80.0,1050.05,435.0,FWD,C - Medium,4430.0,1860,1485.0,Hatchback
+Kia,EV4 Sedan Long Range,170.0,78.0,Lithium-ion,487.77,283.0,124,495,7.7,105.0,1050.05,490.0,FWD,C - Medium,4730.0,1860,1480.0,Sedan
+Kia,EV4 Sedan Standard Range,170.0,55.0,Lithium-ion,487.77,283.0,128,355,7.4,80.0,1050.05,490.0,FWD,C - Medium,4730.0,1860,1480.0,Sedan
+Kia,EV6 GT,260.0,80.0,Lithium-ion,384.0,770.0,178,385,3.5,205.0,1800.0,480.0,AWD,JC - Medium,4695.0,1890,1545.0,SUV
+Kia,EV6 Long Range 2WD,185.0,80.0,Lithium-ion,384.0,350.0,143,455,7.3,205.0,1800.0,490.0,RWD,JC - Medium,4695.0,1880,1575.0,SUV
+Kia,EV6 Long Range AWD,185.0,80.0,Lithium-ion,384.0,605.0,154,440,5.2,205.0,1800.0,490.0,AWD,JC - Medium,4695.0,1880,1575.0,SUV
+Kia,EV6 Standard Range 2WD,185.0,60.0,Lithium-ion,288.0,350.0,140,345,8.7,150.0,750.0,490.0,RWD,JC - Medium,4695.0,1880,1575.0,SUV
+Kia,EV9 76.1 kWh RWD,190.0,73.0,Lithium-ion,348.0,350.0,165,355,8.5,160.0,900.0,333.0,RWD,JF - Luxury,5010.0,1980,1755.0,SUV
+Kia,EV9 99.8 kWh AWD,200.0,96.0,Lithium-ion,456.0,600.0,188,435,6.0,194.0,2500.0,333.0,AWD,JF - Luxury,5010.0,1980,1755.0,SUV
+Kia,EV9 99.8 kWh AWD GT,220.0,96.0,Lithium-ion,456.0,740.0,190,420,4.6,194.0,2500.0,333.0,AWD,JF - Luxury,5015.0,1980,1755.0,SUV
+Kia,EV9 99.8 kWh AWD GT-Line,200.0,96.0,Lithium-ion,456.0,700.0,190,425,5.3,194.0,2500.0,333.0,AWD,JF - Luxury,5015.0,1980,1780.0,SUV
+Kia,EV9 99.8 kWh RWD,185.0,96.0,Lithium-ion,456.0,350.0,171,450,9.4,194.0,900.0,333.0,RWD,JF - Luxury,5010.0,1980,1755.0,SUV
+Kia,Niro EV,167.0,64.8,Lithium-ion,96.0,255.0,140,385,7.8,70.0,750.0,475.0,FWD,JC - Medium,4420.0,1825,1570.0,SUV
+Lancia,Ypsilon,150.0,48.1,Lithium-ion,96.0,260.0,122,310,8.2,80.0,1348.84,309.0,FWD,B - Compact,4080.0,1760,1440.0,Hatchback
+Leapmotor,C10,170.0,69.9,Lithium-ion,487.77,320.0,166,350,7.5,70.0,1500.0,435.0,RWD,JD - Large,4739.0,1900,1680.0,SUV
+Leapmotor,T03,130.0,36.0,Lithium-ion,487.77,158.0,136,225,12.7,30.0,1050.05,210.0,FWD,A - Mini,3658.5,1714,1577.0,Hatchback
+Lexus,RZ 300e,160.0,64.0,Lithium-ion,96.0,266.0,149,365,8.0,100.0,750.0,522.0,FWD,JC - Medium,4690.0,1860,1600.0,SUV
+Lexus,RZ 450e,160.0,64.0,Lithium-ion,96.0,435.0,158,350,5.6,100.0,750.0,522.0,AWD,JD - Large,4805.0,1895,1635.0,SUV
+Lexus,UX 300e,160.0,64.0,Lithium-ion,96.0,300.0,145,340,7.5,35.0,1348.84,316.0,FWD,JC - Medium,4495.0,1840,1545.0,SUV
+Lotus,Eletre,250.0,109.0,Lithium-ion,487.77,710.0,204,495,4.5,255.0,2250.0,611.0,AWD,JF - Luxury,5103.0,2019,1630.0,SUV
+Lotus,Eletre R,260.0,109.0,Lithium-ion,487.77,985.0,228,455,2.9,255.0,2250.0,611.0,AWD,JF - Luxury,5103.0,2019,1636.0,SUV
+Lotus,Eletre S,250.0,109.0,Lithium-ion,487.77,710.0,222,480,4.5,255.0,2250.0,611.0,AWD,JF - Luxury,5103.0,2019,1630.0,SUV
+Lotus,Emeya,250.0,98.9,Lithium-ion,487.77,710.0,198,520,4.2,240.0,2250.0,509.0,AWD,F - Luxury,5139.0,2005,1464.0,Liftback Sedan
+Lotus,Emeya R,256.0,98.9,Lithium-ion,487.77,985.0,227,465,2.8,240.0,1225.0,509.0,AWD,F - Luxury,5139.0,2005,1464.0,Liftback Sedan
+Lotus,Emeya S,250.0,98.9,Lithium-ion,487.77,710.0,198,520,4.2,240.0,2250.0,509.0,AWD,F - Luxury,5139.0,2005,1464.0,Liftback Sedan
+Lucid,Air Grand Touring,262.5,112.0,Lithium-ion,895.425,1200.0,143,665,3.0,184.0,1348.84,456.0,AWD,F - Luxury,4975.0,1939,1410.0,Sedan
+Lucid,Air Pure RWD,200.0,92.0,Lithium-ion,895.425,497.43,130,565,4.7,160.0,1348.84,456.0,RWD,F - Luxury,4975.0,1939,1410.0,Sedan
+Lucid,Air Touring,250.0,92.0,Lithium-ion,895.425,497.43,142,580,3.2,160.0,1348.84,456.0,AWD,F - Luxury,4975.0,1939,1410.0,Sedan
+Lynk&Co,2,180.0,65.0,Lithium-ion,487.77,343.0,149,370,5.5,90.0,1600.0,410.0,RWD,JC - Medium,4460.0,1845,1573.0,SUV
+MG,Cyberster GT,200.0,74.4,Lithium-ion,487.77,725.0,168,395,3.2,85.0,1050.05,249.0,AWD,G - Sports,4535.0,1913,1329.0,Cabriolet
+MG,Cyberster Trophy,195.0,74.4,Lithium-ion,487.77,475.0,146,425,5.0,85.0,1050.05,249.0,RWD,G - Sports,4535.0,1913,1329.0,Cabriolet
+MG,4 Electric 51 kWh,160.0,50.8,Lithium-ion,104.0,250.0,145,300,7.7,68.0,500.0,363.0,RWD,C - Medium,4287.0,1836,1504.0,Hatchback
+MG,4 Electric 64 kWh,160.0,61.7,Lithium-ion,104.0,250.0,142,360,7.9,116.0,500.0,363.0,RWD,C - Medium,4287.0,1836,1504.0,Hatchback
+MG,4 Electric 77 kWh,180.0,74.4,Lithium-ion,487.77,350.0,143,425,6.5,110.0,500.0,363.0,RWD,C - Medium,4287.0,1836,1516.0,Hatchback
+MG,4 Electric XPOWER,200.0,61.7,Lithium-ion,104.0,600.0,160,320,3.8,116.0,500.0,363.0,AWD,C - Medium,4287.0,1836,1516.0,Hatchback
+MG,5 Electric Long Range,185.0,57.4,Lithium-ion,487.77,280.0,151,335,7.7,60.0,500.0,479.0,FWD,C - Medium,4600.0,1818,1543.0,Station/Estate
+MG,5 Electric Standard Range,185.0,46.0,Lithium-ion,487.77,280.0,148,265,7.7,53.0,500.0,479.0,FWD,C - Medium,4600.0,1818,1543.0,Station/Estate
+MG,S5  EV 49 kWh,170.0,47.1,Lithium-ion,487.77,250.0,139,275,8.0,80.0,750.0,453.0,RWD,JC - Medium,4476.0,1849,1621.0,SUV
+MG,S5  EV 64 kWh,190.0,62.1,Lithium-ion,487.77,350.0,134,365,6.3,90.0,750.0,453.0,RWD,JC - Medium,4476.0,1849,1621.0,SUV
+MG,ZS EV Long Range,175.0,68.3,Lithium-ion,487.77,280.0,155,370,8.4,82.0,500.0,448.0,FWD,JB - Compact,4323.0,1809,1649.0,SUV
+MG,ZS EV Standard Range,175.0,49.0,Lithium-ion,487.77,280.0,153,265,8.6,50.0,500.0,448.0,FWD,JB - Compact,4323.0,1809,1649.0,SUV
+Maserati,GranCabrio Folgore,262.5,83.0,Lithium-ion,487.77,1232.5,198,395,2.8,190.0,1050.05,151.0,AWD,F - Luxury,4966.0,1957,1365.0,Cabriolet
+Maserati,GranTurismo Folgore,262.5,83.0,Lithium-ion,487.77,1232.5,182,420,2.7,217.0,1050.05,270.0,AWD,F - Luxury,4959.0,1957,1353.0,Coupe
+Maserati,Grecale Folgore,220.0,95.0,Lithium-ion,487.77,820.0,220,400,4.1,110.0,1800.0,535.0,AWD,JE - Executive,4865.0,1948,1651.0,SUV
+Mazda,6e 68.8 kWh,175.0,66.0,Lithium-ion,487.77,320.0,138,390,7.6,120.0,1500.0,456.0,RWD,D - Large,4921.0,1890,1491.0,Liftback Sedan
+Mazda,6e Long Range 80 kWh,175.0,75.0,Lithium-ion,487.77,320.0,136,440,7.8,70.0,1500.0,456.0,RWD,D - Large,4921.0,1890,1491.0,Liftback Sedan
+Mercedes-Benz,CLA 250+,210.0,85.0,Lithium-ion,487.77,335.0,122,565,6.7,235.0,1500.0,405.0,RWD,D - Large,4723.0,1855,1468.0,Sedan
+Mercedes-Benz,CLA 350 4MATIC,210.0,85.0,Lithium-ion,487.77,515.0,126,550,4.9,235.0,1800.0,405.0,AWD,D - Large,4723.0,1855,1468.0,Sedan
+Mercedes-Benz,EQA 250,160.0,66.5,Lithium-ion,300.0,385.0,146,395,8.6,100.0,1500.0,340.0,FWD,JC - Medium,4463.0,1834,1620.0,SUV
+Mercedes-Benz,EQA 250+,160.0,70.5,Lithium-ion,487.77,385.0,142,420,8.6,90.0,1500.0,340.0,FWD,JC - Medium,4463.0,1834,1620.0,SUV
+Mercedes-Benz,EQA 300 4MATIC,160.0,66.5,Lithium-ion,300.0,390.0,162,350,7.7,100.0,1800.0,340.0,AWD,JC - Medium,4463.0,1834,1620.0,SUV
+Mercedes-Benz,EQA 350 4MATIC,160.0,66.5,Lithium-ion,300.0,520.0,162,350,6.0,100.0,1800.0,340.0,AWD,JC - Medium,4463.0,1834,1620.0,SUV
+Mercedes-Benz,EQB 250+,160.0,70.5,Lithium-ion,487.77,385.0,152,415,8.9,90.0,1400.0,495.0,FWD,JC - Medium,4684.0,1834,1667.0,SUV
+Mercedes-Benz,EQB 300 4MATIC,160.0,66.5,Lithium-ion,300.0,390.0,168,345,8.0,100.0,1700.0,495.0,AWD,JC - Medium,4684.0,1834,1667.0,SUV
+Mercedes-Benz,EQB 350 4MATIC,160.0,66.5,Lithium-ion,300.0,520.0,168,345,6.2,100.0,1700.0,495.0,AWD,JC - Medium,4684.0,1834,1667.0,SUV
+Mercedes-Benz,EQE 300,210.0,89.0,Lithium-ion,487.77,550.0,163,525,7.3,120.0,750.0,430.0,RWD,E - Executive,4946.0,1906,1503.0,Sedan
+Mercedes-Benz,EQE 350 4MATIC,210.0,90.6,Lithium-ion,360.0,765.0,173,515,6.3,141.0,1700.0,430.0,AWD,E - Executive,4946.0,1906,1503.0,Sedan
+Mercedes-Benz,EQE 350+,210.0,96.0,Lithium-ion,487.77,565.0,164,555,6.5,141.0,750.0,430.0,RWD,E - Executive,4946.0,1906,1510.0,Sedan
+Mercedes-Benz,EQE 500 4MATIC,210.0,90.6,Lithium-ion,360.0,858.0,173,505,4.7,141.0,1700.0,430.0,AWD,E - Executive,4946.0,1906,1503.0,Sedan
+Mercedes-Benz,EQE AMG 43 4MATIC,210.0,90.6,Lithium-ion,360.0,858.0,207,450,4.2,141.0,1700.0,430.0,AWD,E - Executive,4964.0,1906,1495.0,Sedan
+Mercedes-Benz,EQE AMG 53 4MATIC+,220.0,90.6,Lithium-ion,360.0,950.0,208,450,3.5,141.0,1700.0,430.0,AWD,E - Executive,4964.0,1906,1495.0,Sedan
+Mercedes-Benz,EQE SUV 300,210.0,90.6,Lithium-ion,487.77,550.0,182,450,7.6,141.0,750.0,520.0,RWD,JE - Executive,4863.0,1940,1685.0,SUV
+Mercedes-Benz,EQE SUV 350 4MATIC,210.0,90.6,Lithium-ion,487.77,765.0,189,435,6.6,141.0,1800.0,520.0,AWD,JE - Executive,4863.0,1940,1685.0,SUV
+Mercedes-Benz,EQE SUV 350+,210.0,96.0,Lithium-ion,487.77,565.0,164,475,6.9,141.0,750.0,520.0,RWD,JE - Executive,4863.0,1940,1685.0,SUV
+Mercedes-Benz,EQE SUV 500 4MATIC,210.0,96.0,Lithium-ion,487.77,858.0,187,455,4.9,141.0,1800.0,520.0,AWD,JE - Executive,4863.0,1940,1685.0,SUV
+Mercedes-Benz,EQE SUV AMG 43 4MATIC,210.0,90.6,Lithium-ion,360.0,858.0,214,425,4.3,141.0,1800.0,520.0,AWD,JE - Executive,4879.0,1940,1672.0,SUV
+Mercedes-Benz,EQE SUV AMG 53 4MATIC+,240.0,90.6,Lithium-ion,360.0,1000.0,228,420,3.5,141.0,1800.0,520.0,AWD,JE - Executive,4879.0,1940,1672.0,SUV
+Mercedes-Benz,EQS 350,210.0,96.0,Lithium-ion,360.0,565.0,165,570,6.7,130.0,750.0,620.0,RWD,F - Luxury,5223.0,1926,1512.0,Sedan
+Mercedes-Benz,EQS 450 4MATIC,210.0,118.0,Lithium-ion,487.77,800.0,180,655,5.7,160.0,1700.0,620.0,AWD,F - Luxury,5223.0,1926,1518.0,Sedan
+Mercedes-Benz,EQS 450+,210.0,118.0,Lithium-ion,487.77,568.0,173,685,6.2,160.0,750.0,620.0,RWD,F - Luxury,5223.0,1926,1518.0,Sedan
+Mercedes-Benz,EQS 500 4MATIC,210.0,118.0,Lithium-ion,487.77,828.0,180,640,4.9,160.0,1700.0,620.0,AWD,F - Luxury,5223.0,1926,1518.0,Sedan
+Mercedes-Benz,EQS 580 4MATIC,210.0,118.0,Lithium-ion,487.77,858.0,180,640,4.4,160.0,1700.0,620.0,AWD,F - Luxury,5223.0,1926,1518.0,Sedan
+Mercedes-Benz,EQS AMG 53 4MATIC+,250.0,118.0,Lithium-ion,487.77,1020.0,222,585,3.4,160.0,1700.0,620.0,AWD,F - Luxury,5223.0,1926,1518.0,Sedan
+Mercedes-Benz,EQS SUV 450 4MATIC,210.0,118.0,Lithium-ion,487.77,800.0,199,530,6.1,160.0,1800.0,645.0,AWD,JF - Luxury,5125.0,1959,1718.0,SUV
+Mercedes-Benz,EQS SUV 450+,210.0,118.0,Lithium-ion,487.77,568.0,195,540,6.8,160.0,750.0,645.0,RWD,JF - Luxury,5125.0,1959,1718.0,SUV
+Mercedes-Benz,EQS SUV 500 4MATIC,210.0,118.0,Lithium-ion,487.77,828.0,199,530,5.3,160.0,1800.0,645.0,AWD,JF - Luxury,5125.0,1959,1718.0,SUV
+Mercedes-Benz,EQS SUV Maybach 680,210.0,118.0,Lithium-ion,487.77,950.0,211,490,4.4,160.0,1800.0,440.0,AWD,JF - Luxury,5125.0,1959,1725.0,SUV
+Mercedes-Benz,EQT 200 Long,132.0,45.0,Lithium-ion,487.77,245.0,177,220,13.299999999999999,50.0,1500.0,783.75,FWD,N - Passenger Van,4922.0,1859,1811.0,Small Passenger Van
+Mercedes-Benz,EQT 200 Standard,132.0,45.0,Lithium-ion,487.77,245.0,167,225,12.6,50.0,1500.0,551.0,FWD,N - Passenger Van,4498.0,1859,1819.0,Small Passenger Van
+Mercedes-Benz,EQV 250 Extra-Long,160.0,60.0,Lithium-ion,192.0,365.0,228,210,12.0,60.0,1348.84,783.75,FWD,N - Passenger Van,5370.0,1928,1888.375,Small Passenger Van
+Mercedes-Benz,EQV 250 Long,160.0,60.0,Lithium-ion,192.0,365.0,228,215,12.0,60.0,1348.84,783.75,FWD,N - Passenger Van,5140.0,1928,1888.375,Small Passenger Van
+Mercedes-Benz,EQV 300 Extra-Long,140.0,90.0,Lithium-ion,288.0,365.0,228,315,12.2,96.0,1348.84,783.75,FWD,N - Passenger Van,5370.0,1928,1888.375,Small Passenger Van
+Mercedes-Benz,EQV 300 Long,160.0,90.0,Lithium-ion,288.0,365.0,228,320,12.1,96.0,1348.84,783.75,FWD,N - Passenger Van,5140.0,1928,1888.375,Small Passenger Van
+Mercedes-Benz,G 580,180.0,116.0,Lithium-ion,216.0,1164.0,228,360,4.7,150.0,1348.84,555.0,AWD,JF - Luxury,4624.0,1931,1888.375,SUV
+Mercedes-Benz,eVito Tourer Extra-Long 60 kWh,160.0,60.0,Lithium-ion,192.0,360.0,228,215,12.0,60.0,1348.84,783.75,FWD,N - Passenger Van,5370.0,1928,1888.375,Small Passenger Van
+Mercedes-Benz,eVito Tourer Long 60 kWh,160.0,60.0,Lithium-ion,192.0,360.0,228,220,12.0,60.0,1348.84,783.75,FWD,N - Passenger Van,5140.0,1928,1888.375,Small Passenger Van
+Mercedes-Benz,eVito Tourer Long 90 kWh,160.0,90.0,Lithium-ion,288.0,360.0,228,325,12.1,96.0,1348.84,783.75,FWD,N - Passenger Van,5140.0,1928,1888.375,Small Passenger Van
+Mini,Aceman E,160.0,38.5,Lithium-ion,487.77,290.0,129,230,7.9,60.0,750.0,300.0,FWD,JB - Compact,4079.0,1754,1514.0,SUV
+Mini,Aceman JCW,200.0,49.2,Lithium-ion,487.77,350.0,143,280,6.4,75.0,750.0,300.0,FWD,JB - Compact,4079.0,1754,1514.0,SUV
+Mini,Aceman SE,170.0,49.2,Lithium-ion,487.77,330.0,129,290,7.1,75.0,750.0,300.0,FWD,JB - Compact,4079.0,1754,1514.0,SUV
+Mini,Cooper E,160.0,36.6,Lithium-ion,487.77,290.0,125,250,7.3,60.0,1348.84,200.0,FWD,B - Compact,3858.0,1756,1460.0,Hatchback
+Mini,Cooper JCW,200.0,49.2,Lithium-ion,487.77,350.0,135,290,5.9,75.0,1348.84,200.0,FWD,B - Compact,3858.0,1756,1460.0,Hatchback
+Mini,Cooper SE,170.0,49.2,Lithium-ion,487.77,330.0,127,330,6.7,75.0,1348.84,200.0,FWD,B - Compact,3858.0,1756,1460.0,Hatchback
+Mini,Countryman E,170.0,64.6,Lithium-ion,487.77,250.0,140,380,8.6,94.0,750.0,460.0,FWD,JC - Medium,4433.0,1843,1656.0,SUV
+Mini,Countryman SE ALL4,180.0,64.6,Lithium-ion,487.77,494.0,149,365,5.6,94.0,1200.0,460.0,AWD,JC - Medium,4433.0,1843,1656.0,SUV
+NIO,EL6 Long Range,200.0,90.0,Lithium-ion,96.0,700.0,170,435,4.5,135.0,1200.0,579.0,AWD,JE - Executive,4854.0,1995,1703.0,SUV
+NIO,EL6 Standard Range,200.0,73.5,Lithium-ion,118.0,700.0,181,365,4.5,110.0,1200.0,579.0,AWD,JE - Executive,4854.0,1995,1703.0,SUV
+NIO,EL7 Long Range,200.0,90.0,Lithium-ion,96.0,850.0,185,430,3.9,100.0,2000.0,570.0,AWD,JF - Luxury,4912.0,1987,1720.0,SUV
+NIO,EL7 Standard Range,200.0,73.5,Lithium-ion,118.0,850.0,198,355,3.9,110.0,2000.0,570.0,AWD,JF - Luxury,4912.0,1987,1720.0,SUV
+NIO,EL8 Long Range,200.0,90.0,Lithium-ion,96.0,850.0,185,440,4.1,190.0,2000.0,265.0,AWD,JF - Luxury,5099.0,1989,1750.0,SUV
+NIO,EL8 Standard Range,200.0,73.5,Lithium-ion,118.0,850.0,196,360,4.1,110.0,2000.0,265.0,AWD,JF - Luxury,5099.0,1989,1750.0,SUV
+NIO,ET5 Long Range,200.0,90.0,Lithium-ion,96.0,700.0,167,500,4.0,100.0,1400.0,386.0,AWD,E - Executive,4790.0,1960,1499.0,Sedan
+NIO,ET5 Standard Range,200.0,73.5,Lithium-ion,118.0,700.0,175,410,4.0,110.0,1400.0,386.0,AWD,E - Executive,4790.0,1960,1499.0,Sedan
+NIO,ET5 Touring Long Range,200.0,90.0,Lithium-ion,96.0,700.0,178,485,4.0,135.0,1400.0,450.0,AWD,E - Executive,4790.0,1960,1499.0,Station/Estate
+NIO,ET5 Touring Standard Range,200.0,73.5,Lithium-ion,118.0,700.0,169,400,4.0,110.0,1400.0,450.0,AWD,E - Executive,4790.0,1960,1499.0,Station/Estate
+NIO,ET7 Long Range,200.0,90.0,Lithium-ion,96.0,850.0,178,505,3.8,100.0,2000.0,363.0,AWD,F - Luxury,5101.0,1987,1509.0,Sedan
+NIO,ET7 Standard Range,200.0,73.5,Lithium-ion,118.0,850.0,191,415,3.8,110.0,2000.0,363.0,AWD,F - Luxury,5101.0,1987,1509.0,Sedan
+Nissan,Ariya 63kWh,160.0,63.0,Lithium-ion,487.77,300.0,175,335,7.5,90.0,750.0,468.0,FWD,JC - Medium,4595.0,1850,1660.0,SUV
+Nissan,Ariya 87kWh,160.0,87.0,Lithium-ion,487.77,300.0,169,450,7.6,110.0,750.0,468.0,FWD,JC - Medium,4595.0,1850,1660.0,SUV
+Nissan,Ariya e-4ORCE 87kWh - 225 kW,200.0,87.0,Lithium-ion,487.77,600.0,190,405,5.7,110.0,1500.0,415.0,AWD,JC - Medium,4595.0,1850,1660.0,SUV
+Nissan,Ariya e-4ORCE 87kWh - 320 kW Nismo,200.0,87.0,Lithium-ion,487.77,600.0,209,385,5.0,110.0,1050.05,415.0,AWD,JC - Medium,4655.0,1850,1660.0,SUV
+Nissan,Townstar EV Passenger,132.0,45.0,Lithium-ion,487.77,245.0,158,225,12.6,50.0,1500.0,783.75,FWD,N - Passenger Van,4488.0,1860,1838.0,Small Passenger Van
+Nissan,Townstar EV Passenger L2,130.0,45.0,Lithium-ion,487.77,245.0,173,220,13.299999999999999,50.0,1500.0,783.75,FWD,N - Passenger Van,4911.0,1860,1815.0,Small Passenger Van
+Omoda,E5,172.0,61.0,Lithium-ion,487.77,340.0,152,345,7.6,60.0,1050.05,380.0,FWD,JC - Medium,4424.0,1830,1588.0,SUV
+Opel,Astra Electric,170.0,50.8,Lithium-ion,102.0,270.0,128,320,9.2,85.0,1348.84,352.0,FWD,C - Medium,4374.0,1860,1470.0,Hatchback
+Opel,Astra Sports Tourer Electric,170.0,50.8,Lithium-ion,102.0,270.0,123,310,9.3,85.0,1348.84,516.0,FWD,C - Medium,4642.0,1860,1480.0,Station/Estate
+Opel,Combo-e Life 50 kWh,135.0,50.0,Lithium-ion,487.77,260.0,149,235,11.3,80.0,750.0,775.0,FWD,N - Passenger Van,4410.0,1921,1812.0,Small Passenger Van
+Opel,Combo-e Life XL 50 kWh,135.0,50.0,Lithium-ion,487.77,260.0,149,230,11.3,80.0,750.0,783.75,FWD,N - Passenger Van,4760.0,1921,1818.0,Small Passenger Van
+Opel,Corsa Electric 50 kWh,150.0,46.3,Lithium-ion,216.0,260.0,131,290,8.7,78.0,1348.84,267.0,FWD,B - Compact,4061.0,1765,1435.0,Hatchback
+Opel,Corsa Electric 51 kWh,150.0,48.1,Lithium-ion,96.0,260.0,120,315,8.1,80.0,1348.84,267.0,FWD,B - Compact,4061.0,1765,1435.0,Hatchback
+Opel,Frontera 44 kWh,140.0,44.0,Lithium-ion,487.77,120.0,144,245,12.1,60.0,350.0,460.0,FWD,JB - Compact,4385.0,1795,1635.0,SUV
+Opel,Grandland 73 kWh,170.0,73.0,Lithium-ion,96.0,260.0,145,365,9.0,90.0,1200.0,550.0,FWD,JC - Medium,4650.0,1934,1665.0,SUV
+Opel,Grandland 82 kWh,170.0,82.2,Lithium-ion,487.77,260.0,146,410,9.0,100.0,1200.0,550.0,FWD,JC - Medium,4650.0,1934,1665.0,SUV
+Opel,Mokka Electric,150.0,50.8,Lithium-ion,102.0,260.0,126,285,9.0,85.0,1348.84,310.0,FWD,JB - Compact,4151.0,1790,1534.0,SUV
+Opel,Zafira-e Life L2 50 kWh,130.0,46.3,Lithium-ion,216.0,270.0,217,180,13.299999999999999,78.0,1000.0,603.0,FWD,N - Passenger Van,4983.0,1920,1888.375,Small Passenger Van
+Opel,Zafira-e Life L2 75 kWh,130.0,68.0,Lithium-ion,324.0,270.0,202,260,13.299999999999999,79.0,1000.0,603.0,FWD,N - Passenger Van,4983.0,1920,1888.375,Small Passenger Van
+Opel,Zafira-e Life L3 50 kWh,130.0,46.3,Lithium-ion,216.0,270.0,219,180,13.299999999999999,78.0,1000.0,783.75,FWD,N - Passenger Van,5333.0,1920,1888.375,Small Passenger Van
+Opel,Zafira-e Life L3 75 kWh,130.0,68.0,Lithium-ion,324.0,260.0,204,260,13.299999999999999,79.0,1000.0,783.75,FWD,N - Passenger Van,5333.0,1920,1888.375,Small Passenger Van
+Peugeot,e-2008 50 kWh,150.0,46.3,Lithium-ion,216.0,260.0,136,270,9.9,78.0,1348.84,434.0,FWD,JB - Compact,4304.0,1775,1523.0,SUV
+Peugeot,e-2008 54 kWh,150.0,50.8,Lithium-ion,102.0,260.0,125,300,9.1,85.0,1348.84,434.0,FWD,JB - Compact,4304.0,1775,1523.0,SUV
+Peugeot,e-208 50 kWh,150.0,46.3,Lithium-ion,216.0,260.0,132,290,9.0,78.0,1348.84,265.0,FWD,B - Compact,4055.0,1765,1430.0,Hatchback
+Peugeot,e-208 51 kWh,150.0,48.1,Lithium-ion,96.0,260.0,120,310,8.2,80.0,1348.84,265.0,FWD,B - Compact,4055.0,1765,1430.0,Hatchback
+Peugeot,e-3008 73 kWh,170.0,73.0,Lithium-ion,96.0,345.0,143,380,8.8,90.0,1250.0,588.0,FWD,JC - Medium,4542.0,1895,1641.0,SUV
+Peugeot,e-3008 73 kWh Dual Motor,170.0,73.0,Lithium-ion,96.0,511.0,195,375,6.4,90.0,1050.05,588.0,AWD,JC - Medium,4542.0,1895,1641.0,SUV
+Peugeot,e-3008 97 kWh Long Range,170.0,96.9,Lithium-ion,487.77,345.0,145,500,8.7,135.0,1200.0,588.0,FWD,JC - Medium,4542.0,1895,1641.0,SUV
+Peugeot,e-308,170.0,50.8,Lithium-ion,102.0,260.0,124,300,9.8,80.0,1348.84,412.0,FWD,C - Medium,4367.0,1852,1441.0,Hatchback
+Peugeot,e-308 SW,150.0,50.8,Lithium-ion,102.0,260.0,127,300,10.0,80.0,1050.05,608.0,FWD,C - Medium,4636.0,1852,1442.0,Station/Estate
+Peugeot,e-408 58 kWh,160.0,58.3,Lithium-ion,487.77,345.0,129,375,7.2,70.0,1050.05,471.0,FWD,JD - Large,4687.0,1859,1478.0,SUV
+Peugeot,e-5008 73 kWh,170.0,73.0,Lithium-ion,96.0,345.0,150,370,9.7,90.0,1000.0,348.0,FWD,JD - Large,4791.0,1895,1694.0,SUV
+Peugeot,e-5008 73 kWh Dual Motor,170.0,73.0,Lithium-ion,96.0,511.0,203,360,7.0,90.0,1050.05,348.0,AWD,JD - Large,4791.0,1895,1694.0,SUV
+Peugeot,e-5008 97 kWh Long Range,170.0,96.9,Lithium-ion,487.77,345.0,152,485,9.6,135.0,1000.0,348.0,FWD,JD - Large,4791.0,1895,1694.0,SUV
+Peugeot,e-Rifter M 50 kWh,132.0,50.0,Lithium-ion,487.77,270.0,152,235,11.7,80.0,750.0,775.0,FWD,N - Passenger Van,4403.0,1921,1818.0,Small Passenger Van
+Peugeot,e-Rifter XL 50 kWh,132.0,50.0,Lithium-ion,487.77,270.0,153,230,11.7,80.0,750.0,783.75,FWD,N - Passenger Van,4755.0,1921,1837.0,Small Passenger Van
+Peugeot,e-Traveller L2 50 kWh,130.0,46.3,Lithium-ion,216.0,270.0,217,180,13.299999999999999,78.0,1000.0,603.0,FWD,N - Passenger Van,4983.0,1920,1888.375,Small Passenger Van
+Peugeot,e-Traveller L2 75 kWh,130.0,68.0,Lithium-ion,324.0,270.0,202,260,13.299999999999999,79.0,1000.0,603.0,FWD,N - Passenger Van,4983.0,1920,1888.375,Small Passenger Van
+Peugeot,e-Traveller L3 50 kWh,130.0,46.3,Lithium-ion,216.0,270.0,219,180,13.299999999999999,78.0,1000.0,783.75,FWD,N - Passenger Van,5333.0,1920,1888.375,Small Passenger Van
+Peugeot,e-Traveller L3 75 kWh,130.0,68.0,Lithium-ion,324.0,270.0,204,260,13.299999999999999,79.0,1000.0,783.75,FWD,N - Passenger Van,5333.0,1920,1888.375,Small Passenger Van
+Polestar,2 Long Range Dual Motor (MY26),205.0,79.0,Lithium-ion,324.0,740.0,142,455,4.5,125.0,1500.0,407.0,AWD,D - Large,4606.0,1859,1479.0,Liftback Sedan
+Polestar,2 Long Range Performance (MY26),205.0,79.0,Lithium-ion,324.0,740.0,142,450,4.2,125.0,1500.0,407.0,AWD,D - Large,4606.0,1859,1473.0,Liftback Sedan
+Polestar,2 Long Range Single Motor (MY26),205.0,79.0,Lithium-ion,324.0,490.0,130,475,6.2,125.0,1500.0,407.0,RWD,D - Large,4606.0,1859,1479.0,Liftback Sedan
+Polestar,2 Standard Range Single Motor (MY26),205.0,67.0,Lithium-ion,487.77,490.0,129,405,6.4,110.0,1500.0,407.0,RWD,D - Large,4606.0,1859,1479.0,Liftback Sedan
+Polestar,3 Long Range Dual motor,210.0,107.0,Lithium-ion,204.0,840.0,183,515,5.0,150.0,2200.0,484.0,AWD,JE - Executive,4900.0,1968,1614.0,SUV
+Polestar,3 Long Range Performance,210.0,107.0,Lithium-ion,204.0,910.0,194,495,4.7,150.0,2200.0,484.0,AWD,JE - Executive,4900.0,1968,1614.0,SUV
+Polestar,3 Long Range Single motor,180.0,107.0,Lithium-ion,204.0,490.0,166,530,7.8,150.0,1500.0,484.0,RWD,JE - Executive,4900.0,1968,1614.0,SUV
+Polestar,4 Long Range Dual Motor,200.0,94.0,Lithium-ion,110.0,686.0,165,485,3.8,135.0,2000.0,526.0,AWD,E - Executive,4839.0,2008,1544.0,Liftback Sedan
+Polestar,4 Long Range Single Motor,180.0,94.0,Lithium-ion,110.0,343.0,157,495,7.4,135.0,1500.0,526.0,RWD,E - Executive,4839.0,2008,1544.0,Liftback Sedan
+Porsche,Macan 4 Electric,220.0,95.0,Lithium-ion,180.0,650.0,184,470,5.2,200.0,2000.0,540.0,AWD,JD - Large,4784.0,1938,1622.0,SUV
+Porsche,Macan 4S Electric,240.0,95.0,Lithium-ion,180.0,820.0,186,470,4.1,200.0,2000.0,540.0,AWD,JD - Large,4784.0,1938,1622.0,SUV
+Porsche,Macan Electric,220.0,95.0,Lithium-ion,180.0,563.0,177,495,5.7,200.0,2000.0,540.0,RWD,JD - Large,4784.0,1938,1623.0,SUV
+Porsche,Macan Turbo Electric,260.0,95.0,Lithium-ion,180.0,1001.0,183,460,3.3,200.0,2000.0,480.0,AWD,JD - Large,4784.0,1938,1621.0,SUV
+Porsche,Taycan,230.0,82.3,Lithium-ion,487.77,410.0,164,495,4.8,195.0,1348.84,407.0,RWD,F - Luxury,4963.0,1966,1379.0,Sedan
+Porsche,Taycan 4,230.0,82.3,Lithium-ion,487.77,585.0,172,490,4.6,195.0,1348.84,407.0,AWD,F - Luxury,4963.0,1966,1379.0,Sedan
+Porsche,Taycan 4 Cross Turismo,220.0,97.0,Lithium-ion,396.0,610.0,188,510,4.7,255.0,1348.84,446.0,AWD,F - Luxury,4974.0,1967,1409.0,Station/Estate
+Porsche,Taycan 4 Plus,230.0,97.0,Lithium-ion,396.0,610.0,175,565,4.6,255.0,1348.84,407.0,AWD,F - Luxury,4963.0,1966,1379.0,Sedan
+Porsche,Taycan 4S,250.0,82.3,Lithium-ion,487.77,695.0,174,490,3.7,195.0,1348.84,407.0,AWD,F - Luxury,4963.0,1966,1379.0,Sedan
+Porsche,Taycan 4S Cross Turismo,240.0,97.0,Lithium-ion,396.0,710.0,188,510,3.8,255.0,1348.84,446.0,AWD,F - Luxury,4974.0,1967,1409.0,Station/Estate
+Porsche,Taycan 4S Plus,250.0,97.0,Lithium-ion,396.0,710.0,177,565,3.7,255.0,1348.84,407.0,AWD,F - Luxury,4963.0,1966,1379.0,Sedan
+Porsche,Taycan 4S Plus Sport Turismo,250.0,97.0,Lithium-ion,396.0,710.0,186,510,3.7,255.0,1348.84,446.0,AWD,F - Luxury,4963.0,1966,1390.0,Station/Estate
+Porsche,Taycan 4S Sport Turismo,250.0,82.3,Lithium-ion,487.77,695.0,183,440,3.7,195.0,1348.84,446.0,AWD,F - Luxury,4963.0,1966,1390.0,Station/Estate
+Porsche,Taycan GTS,250.0,97.0,Lithium-ion,396.0,790.0,176,535,3.3,255.0,1348.84,366.0,AWD,F - Luxury,4963.0,1966,1381.0,Sedan
+Porsche,Taycan GTS Sport Turismo,250.0,97.0,Lithium-ion,396.0,790.0,185,505,3.3,255.0,1348.84,405.0,AWD,F - Luxury,4963.0,1966,1392.0,Station/Estate
+Porsche,Taycan Plus,230.0,97.0,Lithium-ion,396.0,420.0,168,575,4.8,255.0,1348.84,407.0,RWD,F - Luxury,4963.0,1966,1379.0,Sedan
+Porsche,Taycan Plus Sport Turismo,230.0,97.0,Lithium-ion,396.0,420.0,176,530,4.8,255.0,1348.84,446.0,RWD,F - Luxury,4963.0,1966,1390.0,Station/Estate
+Porsche,Taycan Sport Turismo,230.0,82.3,Lithium-ion,487.77,410.0,173,460,4.8,195.0,1348.84,446.0,RWD,F - Luxury,4963.0,1966,1390.0,Station/Estate
+Porsche,Taycan Turbo,260.0,97.0,Lithium-ion,396.0,940.0,174,535,2.7,255.0,1348.84,366.0,AWD,F - Luxury,4963.0,1966,1379.0,Sedan
+Porsche,Taycan Turbo Cross Turismo,250.0,97.0,Lithium-ion,396.0,940.0,188,495,2.8,255.0,1348.84,405.0,AWD,F - Luxury,4974.0,1967,1412.0,Station/Estate
+Porsche,Taycan Turbo GT,262.5,97.0,Lithium-ion,396.0,1232.5,184,475,2.3,255.0,1348.84,326.0,AWD,F - Luxury,4968.0,1966,1378.0,Sedan
+Porsche,Taycan Turbo GT Weissach,262.5,97.0,Lithium-ion,396.0,1232.5,180,475,2.2,255.0,1348.84,367.0,AWD,F - Luxury,4968.0,1966,1378.0,Sedan
+Porsche,Taycan Turbo S,260.0,97.0,Lithium-ion,396.0,1110.0,174,525,2.4,255.0,1348.84,366.0,AWD,F - Luxury,4963.0,1966,1378.0,Sedan
+Porsche,Taycan Turbo S Cross Turismo,250.0,97.0,Lithium-ion,396.0,1110.0,188,485,2.5,255.0,1348.84,405.0,AWD,F - Luxury,4974.0,1967,1407.0,Station/Estate
+Porsche,Taycan Turbo S Sport Turismo,260.0,97.0,Lithium-ion,396.0,1110.0,183,505,2.4,255.0,1348.84,405.0,AWD,F - Luxury,4963.0,1966,1388.0,Station/Estate
+Porsche,Taycan Turbo Sport Turismo,260.0,97.0,Lithium-ion,396.0,940.0,184,505,2.7,255.0,1348.84,405.0,AWD,F - Luxury,4963.0,1966,1392.0,Station/Estate
+Renault,4 E-Tech 40kWh 120hp,150.0,40.0,Lithium-ion,93.0,225.0,124,245,9.2,55.0,750.0,420.0,FWD,JB - Compact,4143.0,1796,1552.0,SUV
+Renault,4 E-Tech 52kWh 150hp,150.0,52.0,Lithium-ion,184.0,245.0,127,315,8.2,70.0,750.0,420.0,FWD,JB - Compact,4143.0,1796,1552.0,SUV
+Renault,5 E-Tech 40kWh 120hp,150.0,40.0,Lithium-ion,93.0,225.0,132,250,9.0,55.0,500.0,326.0,FWD,B - Compact,3922.0,1808,1489.0,Hatchback
+Renault,5 E-Tech 40kWh 95hp,130.0,40.0,Lithium-ion,93.0,215.0,129,255,12.0,124.95,500.0,326.0,FWD,B - Compact,3922.0,1808,1489.0,Hatchback
+Renault,5 E-Tech 52kWh 150hp,150.0,52.0,Lithium-ion,184.0,245.0,129,320,8.0,70.0,500.0,326.0,FWD,B - Compact,3922.0,1808,1489.0,Hatchback
+Renault,Kangoo E-Tech Electric,135.0,45.0,Lithium-ion,487.77,245.0,158,225,12.6,50.0,1500.0,783.75,FWD,N - Passenger Van,4486.0,1860,1838.0,Small Passenger Van
+Renault,Kangoo Grand E-Tech Electric,130.0,45.0,Lithium-ion,487.77,245.0,170,220,13.299999999999999,50.0,1500.0,500.0,FWD,N - Passenger Van,4911.0,1860,1815.0,Small Passenger Van
+Renault,Megane E-Tech EV60 130hp (TU2025),150.0,60.0,Lithium-ion,288.0,250.0,125,380,10.5,88.0,500.0,440.0,FWD,C - Medium,4200.0,1860,1505.0,Hatchback
+Renault,Megane E-Tech EV60 220hp (TU2025),160.0,60.0,Lithium-ion,288.0,300.0,133,380,7.4,88.0,900.0,440.0,FWD,C - Medium,4200.0,1860,1505.0,Hatchback
+Renault,Scenic E-Tech EV60 170hp,150.0,60.0,Lithium-ion,192.0,280.0,144,340,8.6,75.0,1100.0,545.0,FWD,JC - Medium,4470.0,1864,1571.0,SUV
+Renault,Scenic E-Tech EV87 220hp,170.0,87.0,Lithium-ion,288.0,300.0,143,480,7.9,95.0,1100.0,545.0,FWD,JC - Medium,4470.0,1864,1571.0,SUV
+Rolls-Royce,Spectre,250.0,102.0,Lithium-ion,487.77,900.0,192,465,4.5,126.0,1050.05,380.0,AWD,I - Luxury,5453.0,2074,1559.0,Coupe
+Skoda,Elroq 50,160.0,52.0,Lithium-ion,192.0,310.0,149,310,9.0,90.0,1000.0,470.0,RWD,JC - Medium,4488.0,1884,1625.0,SUV
+Skoda,Elroq 60,160.0,59.0,Lithium-ion,216.0,310.0,149,350,8.5,110.0,1000.0,470.0,RWD,JC - Medium,4488.0,1884,1625.0,SUV
+Skoda,Elroq 85,180.0,77.0,Lithium-ion,288.0,545.0,145,450,6.6,120.0,1000.0,470.0,RWD,JC - Medium,4488.0,1884,1625.0,SUV
+Skoda,Elroq RS,180.0,79.0,Lithium-ion,288.0,679.0,151,450,5.4,135.0,1200.0,470.0,AWD,JC - Medium,4488.0,1884,1608.0,SUV
+Skoda,Enyaq 60,160.0,59.0,Lithium-ion,216.0,310.0,145,360,8.1,110.0,1000.0,585.0,RWD,JC - Medium,4658.0,1879,1622.0,SUV
+Skoda,Enyaq 85,180.0,77.0,Lithium-ion,288.0,545.0,141,455,6.7,120.0,1000.0,585.0,RWD,JC - Medium,4658.0,1879,1622.0,SUV
+Skoda,Enyaq 85x,180.0,77.0,Lithium-ion,288.0,679.0,150,450,6.7,120.0,1200.0,585.0,AWD,JC - Medium,4658.0,1879,1620.0,SUV
+Skoda,Enyaq Coupe 60,160.0,59.0,Lithium-ion,216.0,310.0,141,370,8.1,110.0,1000.0,570.0,RWD,JC - Medium,4658.0,1879,1623.0,SUV
+Skoda,Enyaq Coupe 85,180.0,77.0,Lithium-ion,288.0,545.0,138,470,6.7,120.0,1000.0,570.0,RWD,JC - Medium,4658.0,1879,1623.0,SUV
+Skoda,Enyaq Coupe 85x,180.0,77.0,Lithium-ion,288.0,679.0,146,460,6.7,120.0,1200.0,570.0,AWD,JC - Medium,4658.0,1879,1621.0,SUV
+Skoda,Enyaq Coupe RS,180.0,79.0,Lithium-ion,288.0,679.0,143,470,5.4,135.0,1200.0,570.0,AWD,JC - Medium,4660.0,1879,1608.0,SUV
+Skoda,Enyaq RS,180.0,79.0,Lithium-ion,288.0,679.0,147,460,5.4,135.0,1200.0,585.0,AWD,JC - Medium,4660.0,1879,1607.0,SUV
+Skywell,BE11 Long Range,150.0,81.0,Lithium-ion,487.77,320.0,166,390,9.6,50.0,1050.05,467.0,FWD,JD - Large,4720.0,1908,1696.0,SUV
+Skywell,BE11 Standard Range,150.0,68.0,Lithium-ion,487.77,320.0,149,330,9.6,50.0,1050.05,467.0,FWD,JD - Large,4720.0,1908,1696.0,SUV
+Smart,#1 Brabus,180.0,62.0,Lithium-ion,487.77,584.0,155,325,3.9,100.0,1600.0,313.0,AWD,JB - Compact,4300.0,1822,1636.0,SUV
+Smart,#1 Premium,180.0,62.0,Lithium-ion,487.77,343.0,141,335,6.7,100.0,1600.0,323.0,RWD,JB - Compact,4270.0,1822,1636.0,SUV
+Smart,#1 Pro,180.0,47.0,Lithium-ion,487.77,343.0,152,250,6.7,65.0,1348.84,323.0,RWD,JB - Compact,4270.0,1822,1636.0,SUV
+Smart,#1 Pro+,180.0,62.0,Lithium-ion,487.77,343.0,148,335,6.7,100.0,1600.0,323.0,RWD,JB - Compact,4270.0,1822,1636.0,SUV
+Smart,#1 Pulse,180.0,62.0,Lithium-ion,487.77,584.0,155,325,4.5,100.0,1600.0,313.0,AWD,JB - Compact,4300.0,1822,1636.0,SUV
+Smart,#1 Pure,180.0,47.0,Lithium-ion,487.77,343.0,152,250,6.7,65.0,1348.84,323.0,RWD,JB - Compact,4270.0,1822,1636.0,SUV
+Smart,#1 Pure+,180.0,62.0,Lithium-ion,487.77,343.0,148,335,6.7,100.0,1600.0,323.0,RWD,JB - Compact,4270.0,1822,1636.0,SUV
+Smart,#3 Brabus,180.0,62.0,Lithium-ion,487.77,543.0,149,335,3.7,100.0,1600.0,370.0,AWD,JB - Compact,4400.0,1844,1556.0,SUV
+Smart,#3 Premium,180.0,62.0,Lithium-ion,487.77,343.0,136,355,5.8,110.0,1600.0,370.0,RWD,JB - Compact,4400.0,1844,1556.0,SUV
+Smart,#3 Pro,180.0,47.0,Lithium-ion,487.77,343.0,145,265,5.9,65.0,1348.84,370.0,RWD,JB - Compact,4400.0,1844,1556.0,SUV
+Smart,#3 Pro+,180.0,62.0,Lithium-ion,487.77,343.0,143,355,5.8,110.0,1600.0,370.0,RWD,JB - Compact,4400.0,1844,1556.0,SUV
+Smart,#5 Brabus,210.0,94.0,Lithium-ion,487.77,710.0,174,450,3.8,230.0,1600.0,630.0,AWD,JD - Large,4695.0,1920,1705.0,SUV
+Smart,#5 Premium,200.0,94.0,Lithium-ion,487.77,373.0,159,465,6.5,230.0,1600.0,630.0,RWD,JD - Large,4695.0,1920,1705.0,SUV
+Smart,#5 Pro,200.0,74.4,Lithium-ion,487.77,373.0,160,370,6.9,110.0,1600.0,630.0,RWD,JD - Large,4695.0,1920,1705.0,SUV
+Smart,#5 Pro+,200.0,94.0,Lithium-ion,487.77,373.0,159,465,6.5,230.0,1600.0,630.0,RWD,JD - Large,4695.0,1920,1705.0,SUV
+Smart,#5 Pulse,200.0,94.0,Lithium-ion,487.77,643.0,174,455,4.9,230.0,1600.0,630.0,AWD,JD - Large,4695.0,1920,1705.0,SUV
+Smart,#5 Summit Edition,200.0,94.0,Lithium-ion,487.77,643.0,174,455,4.9,230.0,1600.0,630.0,AWD,JD - Large,4695.0,1920,1705.0,SUV
+Subaru,Solterra AWD,160.0,64.0,Lithium-ion,96.0,336.0,154,320,6.9,100.0,750.0,441.0,AWD,JC - Medium,4690.0,1860,1650.0,SUV
+Tesla,Model 3 Long Range AWD (Highland),201.0,75.0,Lithium-ion,895.425,493.0,119,525,4.4,124.0,1000.0,594.0,AWD,D - Large,4720.0,1849,1441.0,Sedan
+Tesla,Model 3 Long Range RWD (Highland),201.0,75.0,Lithium-ion,895.425,450.0,117,545,5.2,124.0,1000.0,594.0,RWD,D - Large,4720.0,1849,1441.0,Sedan
+Tesla,Model 3 Performance (Highland),262.0,75.0,Lithium-ion,895.425,741.0,142,490,3.2,124.0,1348.84,594.0,AWD,D - Large,4720.0,1849,1431.0,Sedan
+Tesla,Model 3 RWD (Highland CATL LFP64),201.0,60.5,Lithium-ion,487.77,420.0,116,445,6.1,110.0,1000.0,594.0,RWD,D - Large,4720.0,1849,1441.0,Sedan
+Tesla,Model S Dual Motor,250.0,95.0,Lithium-ion,895.425,497.43,150,575,3.2,140.0,1600.0,709.0,AWD,F - Luxury,5021.0,1987,1431.0,Liftback Sedan
+Tesla,Model S Plaid,262.5,95.0,Lithium-ion,895.425,497.43,158,560,2.3,140.0,1600.0,709.0,AWD,F - Luxury,5021.0,1987,1431.0,Liftback Sedan
+Tesla,Model X Dual Motor,250.0,95.0,Lithium-ion,895.425,497.43,165,485,3.9,140.0,2250.0,425.0,AWD,JF - Luxury,5057.0,1999,1680.0,SUV
+Tesla,Model X Plaid,262.0,95.0,Lithium-ion,895.425,497.43,180,465,2.7,140.0,2250.0,425.0,AWD,JF - Luxury,5057.0,1999,1680.0,SUV
+Tesla,Model Y Long Range AWD (Juniper),201.0,75.0,Lithium-ion,895.425,493.0,132,455,4.8,124.0,1600.0,783.75,AWD,JD - Large,4790.0,1982,1624.0,SUV
+Tesla,Model Y Long Range RWD (Juniper),201.0,75.0,Lithium-ion,895.425,450.0,121,470,5.6,124.0,1600.0,783.75,RWD,JD - Large,4790.0,1982,1624.0,SUV
+Tesla,Model Y RWD (Juniper),201.0,60.5,Lithium-ion,487.77,420.0,121,375,5.9,110.0,1600.0,783.75,RWD,JD - Large,4790.0,1982,1624.0,SUV
+Toyota,PROACE Verso L 75 kWh,130.0,68.0,Lithium-ion,324.0,260.0,204,260,13.299999999999999,79.0,1000.0,783.75,FWD,N - Passenger Van,5333.0,1920,1888.375,Small Passenger Van
+Toyota,PROACE Verso M 50 kWh,130.0,46.3,Lithium-ion,216.0,260.0,217,180,12.1,78.0,1000.0,603.0,FWD,N - Passenger Van,4983.0,1920,1888.375,Small Passenger Van
+Toyota,PROACE Verso M 75 kWh,130.0,68.0,Lithium-ion,324.0,260.0,202,260,13.299999999999999,79.0,1000.0,603.0,FWD,N - Passenger Van,4983.0,1920,1888.375,Small Passenger Van
+Toyota,Proace City Verso Electric L1 50 kWh,132.0,50.0,Lithium-ion,487.77,260.0,149,235,11.7,80.0,750.0,775.0,FWD,N - Passenger Van,4403.0,1921,1803.0,Small Passenger Van
+Toyota,Proace City Verso Electric L2 50 kWh,132.0,50.0,Lithium-ion,487.77,260.0,149,230,11.7,80.0,750.0,783.75,FWD,N - Passenger Van,4753.0,1921,1814.0,Small Passenger Van
+Toyota,bZ4X AWD,160.0,64.0,Lithium-ion,96.0,336.0,154,345,6.9,100.0,750.0,452.0,AWD,JC - Medium,4690.0,1860,1600.0,SUV
+Toyota,bZ4X FWD,160.0,64.0,Lithium-ion,96.0,265.0,145,350,7.5,100.0,750.0,452.0,FWD,JC - Medium,4690.0,1860,1600.0,SUV
+VinFast,VF 8 Eco Extended Range,200.0,87.7,Lithium-ion,487.77,500.0,186,405,5.9,120.0,1800.0,376.0,AWD,JD - Large,4750.0,1934,1667.0,SUV
+VinFast,VF 8 Plus Extended Range,200.0,87.7,Lithium-ion,487.77,620.0,196,400,5.5,120.0,1800.0,376.0,AWD,JD - Large,4750.0,1934,1667.0,SUV
+Volkswagen,ID. Buzz LWB GTX,160.0,86.0,Lithium-ion,312.0,560.0,182,350,6.5,145.0,1600.0,783.75,AWD,N - Passenger Van,4960.0,1985,1888.375,Small Passenger Van
+Volkswagen,ID. Buzz LWB Pro,160.0,86.0,Lithium-ion,312.0,560.0,190,370,7.9,145.0,1000.0,783.75,RWD,N - Passenger Van,4962.0,1985,1888.375,Small Passenger Van
+Volkswagen,ID. Buzz NWB GTX,160.0,79.0,Lithium-ion,288.0,560.0,194,330,6.5,135.0,1800.0,783.75,AWD,N - Passenger Van,4712.0,1985,1888.375,Small Passenger Van
+Volkswagen,ID. Buzz NWB Pro,160.0,79.0,Lithium-ion,288.0,560.0,187,360,7.6,135.0,1200.0,783.75,RWD,N - Passenger Van,4712.0,1985,1888.375,Small Passenger Van
+Volkswagen,ID. Buzz NWB Pure,145.0,59.0,Lithium-ion,216.0,310.0,178,275,10.7,110.0,1000.0,783.75,RWD,N - Passenger Van,4712.0,1985,1888.375,Small Passenger Van
+Volkswagen,ID.3 GTX,180.0,79.0,Lithium-ion,288.0,545.0,131,470,5.9,135.0,1348.84,385.0,RWD,C - Medium,4322.0,1809,1538.0,Hatchback
+Volkswagen,ID.3 GTX Performance,200.0,79.0,Lithium-ion,288.0,545.0,131,465,5.6,135.0,1348.84,385.0,RWD,C - Medium,4322.0,1809,1538.0,Hatchback
+Volkswagen,ID.3 Pro,160.0,59.0,Lithium-ion,216.0,310.0,136,365,7.6,110.0,1348.84,385.0,RWD,C - Medium,4264.0,1809,1564.0,Hatchback
+Volkswagen,ID.3 Pro S,160.0,77.0,Lithium-ion,288.0,310.0,138,465,7.1,120.0,1348.84,385.0,RWD,C - Medium,4264.0,1809,1564.0,Hatchback
+Volkswagen,ID.3 Pure,160.0,52.0,Lithium-ion,192.0,310.0,134,325,8.2,90.0,1348.84,385.0,RWD,C - Medium,4264.0,1809,1564.0,Hatchback
+Volkswagen,ID.4 GTX,180.0,77.0,Lithium-ion,288.0,679.0,152,420,5.4,120.0,1200.0,543.0,AWD,JC - Medium,4584.0,1852,1631.0,SUV
+Volkswagen,ID.4 Pro,180.0,77.0,Lithium-ion,288.0,545.0,149,445,6.7,120.0,1000.0,543.0,RWD,JC - Medium,4584.0,1852,1631.0,SUV
+Volkswagen,ID.4 Pro 4MOTION,180.0,77.0,Lithium-ion,288.0,679.0,155,435,6.6,120.0,1200.0,543.0,AWD,JC - Medium,4584.0,1852,1631.0,SUV
+Volkswagen,ID.4 Pure,160.0,52.0,Lithium-ion,192.0,310.0,143,285,9.0,87.0,1000.0,543.0,RWD,JC - Medium,4584.0,1852,1640.0,SUV
+Volkswagen,ID.5 GTX,180.0,77.0,Lithium-ion,288.0,679.0,144,430,5.5,120.0,1200.0,549.0,AWD,JC - Medium,4599.0,1852,1615.0,SUV
+Volkswagen,ID.5 Pro,180.0,77.0,Lithium-ion,288.0,545.0,138,460,6.7,120.0,1000.0,549.0,RWD,JC - Medium,4599.0,1852,1615.0,SUV
+Volkswagen,ID.5 Pure,160.0,52.0,Lithium-ion,288.0,310.0,142,320,8.9,87.0,1000.0,549.0,RWD,JC - Medium,4599.0,1852,1615.0,SUV
+Volkswagen,ID.7 GTX,180.0,86.0,Lithium-ion,312.0,560.0,145,500,5.4,145.0,1200.0,532.0,AWD,E - Executive,4961.0,1862,1536.0,Liftback Sedan
+Volkswagen,ID.7 Pro,180.0,77.0,Lithium-ion,288.0,550.0,132,475,6.5,125.0,1000.0,532.0,RWD,E - Executive,4961.0,1862,1536.0,Liftback Sedan
+Volkswagen,ID.7 Pro S,180.0,86.0,Lithium-ion,312.0,550.0,133,525,6.6,145.0,1000.0,532.0,RWD,E - Executive,4961.0,1862,1536.0,Liftback Sedan
+Volkswagen,ID.7 Tourer GTX,180.0,86.0,Lithium-ion,312.0,560.0,147,500,5.5,145.0,1200.0,605.0,AWD,E - Executive,4961.0,1862,1536.0,Station/Estate
+Volkswagen,ID.7 Tourer Pro,180.0,77.0,Lithium-ion,288.0,550.0,146,470,6.6,125.0,1000.0,605.0,RWD,E - Executive,4961.0,1862,1536.0,Station/Estate
+Volkswagen,ID.7 Tourer Pro S,180.0,86.0,Lithium-ion,312.0,550.0,125,520,6.7,145.0,1000.0,605.0,RWD,E - Executive,4961.0,1862,1536.0,Station/Estate
+Volvo,EC40 Single Motor (MY26),180.0,67.0,Lithium-ion,487.77,420.0,151,360,7.3,110.0,1500.0,404.0,RWD,JC - Medium,4440.0,1873,1596.0,SUV
+Volvo,EC40 Single Motor ER (MY26),180.0,79.0,Lithium-ion,324.0,420.0,146,420,7.3,125.0,1500.0,404.0,RWD,JC - Medium,4440.0,1873,1596.0,SUV
+Volvo,EC40 Twin Motor (MY26),180.0,79.0,Lithium-ion,324.0,670.0,155,400,4.8,125.0,1800.0,404.0,AWD,JC - Medium,4440.0,1873,1596.0,SUV
+Volvo,EC40 Twin Motor Performance (MY26),180.0,79.0,Lithium-ion,324.0,670.0,155,400,4.6,125.0,1800.0,404.0,AWD,JC - Medium,4440.0,1873,1596.0,SUV
+Volvo,ES90 Single Motor (MY26),180.0,88.0,Lithium-ion,487.77,480.0,135,485,6.9,190.0,1600.0,446.0,RWD,F - Luxury,5000.0,1942,1546.0,Liftback Sedan
+Volvo,ES90 Twin Motor (MY26),180.0,102.0,Lithium-ion,487.77,670.0,146,530,5.5,225.0,2000.0,446.0,AWD,F - Luxury,5000.0,1942,1546.0,Liftback Sedan
+Volvo,ES90 Twin Motor Performance (MY26),180.0,102.0,Lithium-ion,487.77,870.0,146,530,4.0,225.0,2000.0,446.0,AWD,F - Luxury,5000.0,1942,1546.0,Liftback Sedan
+Volvo,EX30 Cross Country (MY26),180.0,65.0,Lithium-ion,487.77,543.0,152,330,3.7,114.0,1600.0,318.0,AWD,JB - Compact,4233.0,1837,1573.0,SUV
+Volvo,EX30 Single Motor (MY24-26),180.0,49.0,Lithium-ion,487.77,343.0,147,275,5.7,80.0,1000.0,318.0,RWD,JB - Compact,4233.0,1837,1549.0,SUV
+Volvo,EX30 Single Motor ER (MY24-26),180.0,65.0,Lithium-ion,487.77,343.0,138,365,5.3,113.0,1600.0,318.0,RWD,JB - Compact,4233.0,1837,1549.0,SUV
+Volvo,EX30 Twin Motor Performance (MY24-26),180.0,65.0,Lithium-ion,487.77,543.0,145,340,3.6,113.0,1600.0,318.0,AWD,JB - Compact,4233.0,1837,1549.0,SUV
+Volvo,EX40 Single Motor (MY26),180.0,67.0,Lithium-ion,487.77,420.0,154,345,7.3,110.0,1500.0,410.0,RWD,JC - Medium,4440.0,1863,1652.0,SUV
+Volvo,EX40 Single Motor ER (MY26),180.0,79.0,Lithium-ion,324.0,420.0,152,400,7.3,125.0,1500.0,410.0,RWD,JC - Medium,4440.0,1863,1652.0,SUV
+Volvo,EX40 Twin Motor (MY26),180.0,79.0,Lithium-ion,324.0,670.0,163,385,4.8,125.0,1800.0,410.0,AWD,JC - Medium,4440.0,1863,1652.0,SUV
+Volvo,EX40 Twin Motor Performance (MY26),180.0,79.0,Lithium-ion,324.0,670.0,163,385,4.6,125.0,1800.0,410.0,AWD,JC - Medium,4440.0,1863,1652.0,SUV
+Volvo,EX90 Single Motor (MY24-26),180.0,100.0,Lithium-ion,192.0,490.0,182,460,8.4,140.0,1200.0,310.0,RWD,JF - Luxury,5037.0,1964,1744.0,SUV
+Volvo,EX90 Twin Motor (MY24-26),180.0,107.0,Lithium-ion,204.0,770.0,188,470,5.9,150.0,2200.0,310.0,AWD,JF - Luxury,5037.0,1964,1744.0,SUV
+Volvo,EX90 Twin Motor Performance (MY24-26),180.0,107.0,Lithium-ion,204.0,910.0,188,455,4.9,150.0,2200.0,310.0,AWD,JF - Luxury,5037.0,1964,1744.0,SUV
+Voyah,Free 106 kWh,200.0,100.0,Lithium-ion,487.77,720.0,200,480,4.4,80.0,2000.0,550.0,AWD,JE - Executive,4905.0,1950,1645.0,SUV
+XPENG,G6 AWD Performance,200.0,87.5,Lithium-ion,487.77,660.0,159,475,4.1,180.0,1500.0,571.0,AWD,JD - Large,4753.0,1920,1650.0,SUV
+XPENG,G6 RWD Long Range,200.0,87.5,Lithium-ion,487.77,440.0,154,480,6.7,180.0,1500.0,571.0,RWD,JD - Large,4753.0,1920,1650.0,SUV
+XPENG,G6 RWD Standard Range,200.0,66.0,Lithium-ion,487.77,440.0,152,370,6.9,140.0,1500.0,571.0,RWD,JD - Large,4753.0,1920,1650.0,SUV
+XPENG,G9 AWD Performance,200.0,93.1,Lithium-ion,487.77,717.0,179,465,3.9,224.0,1500.0,660.0,AWD,JE - Executive,4891.0,1937,1670.0,SUV
+XPENG,G9 RWD Long Range,200.0,93.1,Lithium-ion,487.77,430.0,163,480,6.4,224.0,1500.0,660.0,RWD,JE - Executive,4891.0,1937,1670.0,SUV
+XPENG,G9 RWD Standard Range,200.0,75.8,Lithium-ion,487.77,430.0,165,395,6.4,170.0,1500.0,660.0,RWD,JE - Executive,4891.0,1937,1680.0,SUV
+XPENG,P7 AWD Performance,200.0,82.7,Lithium-ion,487.77,757.0,164,460,4.1,138.0,1348.84,440.0,AWD,E - Executive,4888.0,1896,1450.0,Sedan
+XPENG,P7 RWD Long Range,200.0,82.7,Lithium-ion,487.77,440.0,144,495,6.7,138.0,1348.84,440.0,RWD,E - Executive,4888.0,1896,1450.0,Sedan
+XPENG,P7 Wing Edition,200.0,82.7,Lithium-ion,487.77,757.0,164,455,4.1,138.0,1348.84,440.0,AWD,E - Executive,4888.0,1896,1450.0,Sedan
+Zeekr,001 Long Range RWD,200.0,94.0,Lithium-ion,110.0,343.0,152,505,7.2,135.0,1500.0,539.0,RWD,E - Executive,4955.0,1999,1560.0,Liftback Sedan
+Zeekr,001 Performance AWD,200.0,94.0,Lithium-ion,110.0,686.0,159,480,3.8,135.0,2000.0,539.0,AWD,E - Executive,4955.0,1999,1560.0,Liftback Sedan
+Zeekr,001 Privilege AWD,200.0,94.0,Lithium-ion,110.0,686.0,162,480,3.8,135.0,2000.0,539.0,AWD,E - Executive,4955.0,1999,1548.0,Liftback Sedan
+Zeekr,7X Long Range RWD,210.0,94.0,Lithium-ion,487.77,440.0,153,475,6.0,255.0,2000.0,539.0,RWD,JD - Large,4787.0,1930,1650.0,SUV
+Zeekr,7X Performance AWD,210.0,94.0,Lithium-ion,487.77,710.0,173,450,3.8,255.0,2000.0,539.0,AWD,JD - Large,4787.0,1930,1650.0,SUV
+Zeekr,7X Premium RWD,210.0,71.0,Lithium-ion,487.77,440.0,148,365,6.0,240.0,2000.0,539.0,RWD,JD - Large,4787.0,1930,1650.0,SUV
+Zeekr,X Core RWD (MY25),190.0,49.0,Lithium-ion,487.77,343.0,148,265,5.9,70.0,1600.0,362.0,RWD,JB - Compact,4432.0,1836,1566.0,SUV
+Zeekr,X Long Range RWD (MY25),190.0,65.0,Lithium-ion,487.77,343.0,146,360,5.6,114.0,1600.0,362.0,RWD,JB - Compact,4432.0,1836,1566.0,SUV
+Zeekr,X Privilege AWD (MY25),190.0,65.0,Lithium-ion,487.77,543.0,153,350,3.8,114.0,1600.0,362.0,AWD,JB - Compact,4432.0,1836,1566.0,SUV
