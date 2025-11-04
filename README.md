@@ -4,7 +4,7 @@
 **Internship Theme:** Electric Vehicles (AI + Green Skills) — Shell × Edunet × AICTE  
 
 ## Overview
-This project analyzes electric vehicle (EV) performance and battery parameters to understand factors affecting efficiency and range. 
+This project analyzes electric vehicle (EV) performance and battery parameters to explore factors that influence efficiency and driving range.
 
 ## Objectives
 - Understand relationships between EV parameters and performance  
@@ -34,6 +34,20 @@ The dataset was cleaned using **Pandas** and **NumPy** to prepare it for analysi
 5. Ensured proper formatting and datatype consistency (e.g., integer vs. float).  
 6. Removed duplicate rows and standardized numerical precision (2 decimal places).  
 7. Exported cleaned dataset → `data/EV_Battery_Performance_Clean.csv` 
+
+## Data Visualization
+Exploratory Data Analysis (EDA) was conducted using Matplotlib and Seaborn to uncover performance patterns and relationships between key features.
+
+**Visualization Highlights:**
+- Range Distribution across all EV models.
+- Battery Capacity vs Range – identifies how capacity impacts distance.
+- Efficiency vs Range – measures energy effectiveness.
+- Top Speed vs Range and Motor Power vs Battery Range for performance trade-offs.
+- Battery Capacity vs Efficiency – analyzes optimal energy use.
+- Torque vs Range and Acceleration vs Range – impact of drivetrain and power.
+- Average Range per Brand and Range Distribution across Segments for market insights.
+- Battery Type Distribution and Drivetrain vs Range comparisons.
+- Correlation Heatmap summarizing feature interdependence.
 
 ## Requirements
 Install dependencies:
