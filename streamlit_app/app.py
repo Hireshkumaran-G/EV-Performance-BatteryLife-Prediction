@@ -85,11 +85,11 @@ st.markdown("""
 # --- Load Model & Data ---
 @st.cache_resource
 def load_model():
-    return joblib.load("../models/random_forest_simple.pkl")
+    return joblib.load("models/random_forest_simple.pkl")
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("../data/EV_Battery_Performance_Clean.csv")
+    return pd.read_csv("data/EV_Battery_Performance_Clean.csv")
 
 model = load_model()
 df = load_data()
